@@ -24,15 +24,13 @@ bash scripts/download.sh
 
 ## Image Inpainting via Diffusion Models with Classifier Guidance
 ### Use GuidPaint
-For ImageNet, we use a pre-trained classifier to predict the labels of input images, or you can also customize the labels based on `file` `ILSVRC2012-Label-Key-Categories.txt` for local guidance. 
+For ImageNet, we use a pre-trained classifier (--use_classifier) to predict the labels (--use_pred_y) of input images, or you can also customize the labels (--labels) based on `file` `ILSVRC2012-Label-Key-Categories.txt`.
+For Celeba-HQ, the diffusion model is unconditional (no y), therefor we only use stochastic sampling without classifier.
 
-<img src="assets/pred_label.jpg" width=400px>
-
-For Celeba-HQ, the diffusion model is unconditional, therefor we only use stochastic sampling without classifier.
-
-Use different skip sampling steps according to different stages of denoising. Use fewer steps early for faster denoising, and more steps later for finer details.
+Use different skip sampling steps (--ddim.schedule_params.schedule_type respace) according to different stages of denoising. 
+Use fewer steps early for faster denoising, and more steps later for finer details (--ddim.schedule_params.infer_step_repace 125,1).
 When the sampling step is 250, clearer structures emerge between steps 100-150. 
-You can select an intermediate generation with both semantic consistency and visual plausibility as the initial condition for deterministic sampling.
+You can select an intermediate generation (--optimize_xt.comb_stop_step) with both semantic consistency and visual plausibility as the initial condition for deterministic sampling.
 
 <img src="assets/skip_sampling.jpg" width=768px>
 

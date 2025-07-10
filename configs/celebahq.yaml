@@ -1,0 +1,141 @@
+########################################################################
+# Usage:
+# All parameters could be specified by argparse, e.g. simply run the python script with ``--model_path xxx'' will change
+# ``model_path'' parameter during running. Nested params ``--ddim.schedule_params.ddpm_num_steps xxx'' is also supported.
+########################################################################
+
+########################################################################
+##  basic configs
+########################################################################
+model_path: ./checkpoints/celeba256_250000.pt
+classifier_path: ./checkpoints/256x256_classifier.pt
+seed: 42
+use_git: false
+n_samples: 1
+n_iter: 1
+algorithm: copaint
+resume: false # will load previous results if there are some
+mode: inpaint # super_resolution, inpaint
+scale: 0 # used for SR
+debug: false
+use_guidance: false
+#use_one_step_noise: false
+use_local_guid: false
+
+########################################################################
+## algorithm specific configs
+########################################################################
+ddim:
+  ddim_sigma: 0.0
+  schedule_params:
+    ddpm_num_steps: 250
+    num_inference_steps: 250
+    schedule_type: linear # linear, quad, respace
+    infer_step_repace: "50,50,25,25,10"
+    jump_length: 1
+    jump_n_sample: 1
+    use_timetravel: false
+    time_travel_filter_type: none
+    jump_start_step: 230 # [jump_end_step, jump_start_step]
+    jump_end_step: 0
+
+optimize_xt:
+  optimize_xt: true
+  num_iteration_inp: 2 # G步梯度下降，即优化xt的次数
+  num_iteration_guid: 2
+  lr_xt: 0.02
+  lr_xt_decay: 1.005
+  use_smart_lr_xt_decay: true
+  use_adaptive_lr_xt: true
+  coef_xt_reg: 0.01
+  coef_xt_reg_decay: 1.0
+  coef_guid: 1.0
+  coef_guid_decay: 1.0
+  guid_stop_step: 50
+  inp_start_step: 249
+  use_comb: true
+  comb_start_step: 249
+  comb_stop_step: 100
+#  coef_align: 0.0
+#  coef_align_decay: 1.0
+  mid_interval_num: 1
+  optimize_before_time_travel: true
+  filter_xT: false
+
+resample:
+  keep_n_samples: 2 # n_samples images would be generated, while keep_n_samples images would be returned.
+
+repaint:
+  schedule_jump_params:
+    t_T: 250
+    n_sample: 1
+    jump_length: 10
+    jump_n_sample: 10
+  inpa_inj_sched_prev: true
+  inpa_inj_sched_prev_cumnoise: false
+
+ddnm:
+  schedule_jump_params:
+    t_T: 250
+    n_sample: 1
+    jump_length: 1
+    jump_n_sample: 1
+
+ddrm:
+  schedule_jump_params:
+    t_T: 250
+    n_sample: 1
+    jump_length: 1
+    jump_n_sample: 1
+
+dps:
+  step_size: 1.0
+  eta: 1.0
+  schedule_jump_params:
+    t_T: 250
+    n_sample: 1
+    jump_length: 1
+    jump_n_sample: 1
+
+########################################################################
+### unet configs, no need to change
+########################################################################
+cond_y:
+class_cond: false
+attention_resolutions: 32,16,8
+diffusion_steps: 1000
+learn_sigma: true
+noise_schedule: linear
+num_channels: 256
+num_head_channels: 64
+num_heads: 4
+num_res_blocks: 2
+num_heads_upsample: -1
+resblock_updown: true
+use_fp16: true
+use_scale_shift_norm: true
+lr_kernel_n_std: 2
+num_samples: 100
+show_progress: true
+timestep_respacing: '250'
+use_kl: false
+predict_xstart: false
+rescale_timesteps: false
+rescale_learned_sigmas: false
+classifier_scale: 1.0
+classifier_use_fp16: false
+classifier_width: 128
+classifier_depth: 2
+classifier_attention_resolutions: 32,16,8
+classifier_use_scale_shift_norm: true
+classifier_resblock_updown: true
+classifier_pool: attention
+channel_mult: ''
+dropout: 0.0
+use_checkpoint: false
+use_new_attention_order: false
+clip_denoised: true
+use_ddim: false
+image_size: 256
+respace_interpolate: false
+

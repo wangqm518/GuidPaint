@@ -1,0 +1,2278 @@
+{
+    "00087": {
+        "input_points": [
+            [
+                61,
+                101
+            ],
+            [
+                184,
+                100
+            ],
+            [
+                110,
+                46
+            ],
+            [
+                150,
+                54
+            ],
+            [
+                189,
+                61
+            ],
+            [
+                96,
+                64
+            ],
+            [
+                119,
+                70
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 808
+    },
+    "00227": {
+        "input_points": [
+            [
+                62,
+                109
+            ],
+            [
+                103,
+                116
+            ],
+            [
+                134,
+                111
+            ],
+            [
+                164,
+                117
+            ],
+            [
+                203,
+                115
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "00331": {
+        "input_points": [
+            [
+                67,
+                128
+            ],
+            [
+                105,
+                129
+            ],
+            [
+                136,
+                116
+            ],
+            [
+                164,
+                121
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "00479": {
+        "input_points": [
+            [
+                120,
+                21
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "00590": {
+        "input_points": [
+            [
+                90,
+                123
+            ],
+            [
+                126,
+                119
+            ],
+            [
+                170,
+                120
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "01290": {
+        "input_points": [
+            [
+                58,
+                120
+            ],
+            [
+                103,
+                122
+            ],
+            [
+                130,
+                115
+            ],
+            [
+                167,
+                116
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "01409": {
+        "input_points": [
+            [
+                117,
+                31
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 452
+    },
+    "01547": {
+        "input_points": [
+            [
+                131,
+                20
+            ],
+            [
+                192,
+                8
+            ],
+            [
+                90,
+                3
+            ],
+            [
+                108,
+                15
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "02088": {
+        "input_points": [
+            [
+                92,
+                53
+            ],
+            [
+                183,
+                25
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 793
+    },
+    "02323": {
+        "input_points": [
+            [
+                108,
+                57
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "02433": {
+        "input_points": [
+            [
+                142,
+                52
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "02466": {
+        "input_points": [
+            [
+                57,
+                111
+            ],
+            [
+                101,
+                120
+            ],
+            [
+                130,
+                114
+            ],
+            [
+                181,
+                123
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "02603": {
+        "input_points": [
+            [
+                158,
+                39
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "03009": {
+        "input_points": [
+            [
+                139,
+                48
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "03011": {
+        "input_points": [
+            [
+                130,
+                66
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 433
+    },
+    "03145": {
+        "input_points": [
+            [
+                42,
+                44
+            ],
+            [
+                98,
+                51
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 981
+    },
+    "03346": {
+        "input_points": [
+            [
+                59,
+                17
+            ],
+            [
+                95,
+                13
+            ],
+            [
+                128,
+                16
+            ],
+            [
+                163,
+                17
+            ],
+            [
+                195,
+                28
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "03389": {
+        "input_points": [
+            [
+                67,
+                118
+            ],
+            [
+                95,
+                118
+            ],
+            [
+                133,
+                108
+            ],
+            [
+                167,
+                123
+            ],
+            [
+                192,
+                125
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "03629": {
+        "input_points": [
+            [
+                164,
+                57
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "04111": {
+        "input_points": [
+            [
+                128,
+                60
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 433
+    },
+    "04282": {
+        "input_points": [
+            [
+                126,
+                57
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 433
+    },
+    "05060": {
+        "input_points": [
+            [
+                81,
+                125
+            ],
+            [
+                118,
+                119
+            ],
+            [
+                148,
+                122
+            ],
+            [
+                205,
+                116
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "05571": {
+        "input_points": [
+            [
+                81,
+                40
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 652
+    },
+    "05818": {
+        "input_points": [
+            [
+                131,
+                59
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 793
+    },
+    "05893": {
+        "input_points": [
+            [
+                173,
+                50
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "06949": {
+        "input_points": [
+            [
+                158,
+                33
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "07638": {
+        "input_points": [
+            [
+                103,
+                123
+            ],
+            [
+                31,
+                105
+            ],
+            [
+                137,
+                115
+            ],
+            [
+                177,
+                114
+            ],
+            [
+                175,
+                101
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "07802": {
+        "input_points": [
+            [
+                95,
+                7
+            ],
+            [
+                178,
+                6
+            ],
+            [
+                217,
+                31
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "07858": {
+        "input_points": [
+            [
+                156,
+                39
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 793
+    },
+    "08217": {
+        "input_points": [
+            [
+                192,
+                16
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 808
+    },
+    "08654": {
+        "input_points": [
+            [
+                54,
+                119
+            ],
+            [
+                95,
+                123
+            ],
+            [
+                129,
+                113
+            ],
+            [
+                160,
+                123
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "09294": {
+        "input_points": [
+            [
+                48,
+                118
+            ],
+            [
+                75,
+                120
+            ],
+            [
+                125,
+                98
+            ],
+            [
+                124,
+                109
+            ],
+            [
+                149,
+                119
+            ],
+            [
+                198,
+                120
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "09472": {
+        "input_points": [
+            [
+                182,
+                29
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 0
+    },
+    "09585": {
+        "input_points": [
+            [
+                137,
+                43
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 433
+    },
+    "10772": {
+        "input_points": [
+            [
+                90,
+                117
+            ],
+            [
+                128,
+                115
+            ],
+            [
+                164,
+                124
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 837
+    },
+    "11794": {
+        "input_points": [
+            [
+                108,
+                52
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 793
+    },
+    "12554": {
+        "input_points": [
+            [
+                83,
+                121
+            ],
+            [
+                123,
+                105
+            ],
+            [
+                167,
+                118
+            ],
+            [
+                192,
+                105
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "12910": {
+        "input_points": [
+            [
+                70,
+                57
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "13023": {
+        "input_points": [
+            [
+                110,
+                48
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 793
+    },
+    "13230": {
+        "input_points": [
+            [
+                59,
+                136
+            ],
+            [
+                95,
+                129
+            ],
+            [
+                123,
+                122
+            ],
+            [
+                124,
+                111
+            ],
+            [
+                159,
+                133
+            ],
+            [
+                200,
+                125
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "13427": {
+        "input_points": [
+            [
+                83,
+                106
+            ],
+            [
+                114,
+                103
+            ],
+            [
+                157,
+                139
+            ],
+            [
+                198,
+                124
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 836
+    },
+    "13679": {
+        "input_points": [
+            [
+                79,
+                120
+            ],
+            [
+                117,
+                113
+            ],
+            [
+                158,
+                120
+            ],
+            [
+                202,
+                119
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "13780": {
+        "input_points": [
+            [
+                92,
+                18
+            ],
+            [
+                163,
+                26
+            ],
+            [
+                206,
+                20
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 793
+    },
+    "13849": {
+        "input_points": [
+            [
+                84,
+                127
+            ],
+            [
+                126,
+                111
+            ],
+            [
+                164,
+                125
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 837
+    },
+    "14535": {
+        "input_points": [
+            [
+                92,
+                33
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 793
+    },
+    "14571": {
+        "input_points": [
+            [
+                100,
+                9
+            ],
+            [
+                135,
+                1
+            ],
+            [
+                171,
+                12
+            ],
+            [
+                222,
+                27
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 836
+    },
+    "14858": {
+        "input_points": [
+            [
+                57,
+                131
+            ],
+            [
+                94,
+                132
+            ],
+            [
+                126,
+                105
+            ],
+            [
+                173,
+                131
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "15393": {
+        "input_points": [
+            [
+                90,
+                114
+            ],
+            [
+                126,
+                112
+            ],
+            [
+                164,
+                116
+            ],
+            [
+                56,
+                111
+            ],
+            [
+                195,
+                113
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "15764": {
+        "input_points": [
+            [
+                61,
+                113
+            ],
+            [
+                103,
+                120
+            ],
+            [
+                133,
+                109
+            ],
+            [
+                159,
+                123
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "16009": {
+        "input_points": [
+            [
+                62,
+                14
+            ],
+            [
+                83,
+                6
+            ],
+            [
+                172,
+                3
+            ],
+            [
+                196,
+                12
+            ],
+            [
+                205,
+                30
+            ],
+            [
+                205,
+                30
+            ],
+            [
+                205,
+                30
+            ],
+            [
+                61,
+                28
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "16137": {
+        "input_points": [
+            [
+                106,
+                18
+            ],
+            [
+                136,
+                4
+            ],
+            [
+                173,
+                21
+            ],
+            [
+                209,
+                43
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "16241": {
+        "input_points": [
+            [
+                91,
+                98
+            ],
+            [
+                73,
+                45
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "16377": {
+        "input_points": [
+            [
+                99,
+                34
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "16541": {
+        "input_points": [
+            [
+                103,
+                54
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 808
+    },
+    "16678": {
+        "input_points": [
+            [
+                51,
+                127
+            ],
+            [
+                79,
+                132
+            ],
+            [
+                134,
+                114
+            ],
+            [
+                168,
+                127
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "16825": {
+        "input_points": [
+            [
+                89,
+                6
+            ],
+            [
+                155,
+                8
+            ],
+            [
+                195,
+                12
+            ],
+            [
+                202,
+                31
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "17427": {
+        "input_points": [
+            [
+                101,
+                37
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "17683": {
+        "input_points": [
+            [
+                56,
+                120
+            ],
+            [
+                103,
+                109
+            ],
+            [
+                128,
+                101
+            ],
+            [
+                163,
+                115
+            ],
+            [
+                198,
+                115
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "17735": {
+        "input_points": [
+            [
+                99,
+                55
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 852
+    },
+    "17740": {
+        "input_points": [
+            [
+                126,
+                64
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 430
+    },
+    "17833": {
+        "input_points": [
+            [
+                49,
+                126
+            ],
+            [
+                94,
+                123
+            ],
+            [
+                127,
+                110
+            ],
+            [
+                164,
+                116
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "18175": {
+        "input_points": [
+            [
+                197,
+                14
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 808
+    },
+    "18679": {
+        "input_points": [
+            [
+                119,
+                38
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 518
+    },
+    "18933": {
+        "input_points": [
+            [
+                54,
+                113
+            ],
+            [
+                93,
+                120
+            ],
+            [
+                128,
+                106
+            ],
+            [
+                162,
+                125
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "18996": {
+        "input_points": [
+            [
+                166,
+                34
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "19164": {
+        "input_points": [
+            [
+                83,
+                118
+            ],
+            [
+                121,
+                99
+            ],
+            [
+                156,
+                119
+            ],
+            [
+                201,
+                121
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "19563": {
+        "input_points": [
+            [
+                119,
+                62
+            ],
+            [
+                36,
+                75
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 399
+    },
+    "19637": {
+        "input_points": [
+            [
+                56,
+                116
+            ],
+            [
+                96,
+                120
+            ],
+            [
+                128,
+                116
+            ],
+            [
+                163,
+                118
+            ],
+            [
+                195,
+                116
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "19641": {
+        "input_points": [
+            [
+                151,
+                53
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "19943": {
+        "input_points": [
+            [
+                143,
+                51
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 808
+    },
+    "20497": {
+        "input_points": [
+            [
+                109,
+                39
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "20993": {
+        "input_points": [
+            [
+                162,
+                32
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 715
+    },
+    "21367": {
+        "input_points": [
+            [
+                94,
+                62
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "21429": {
+        "input_points": [
+            [
+                88,
+                120
+            ],
+            [
+                118,
+                104
+            ],
+            [
+                179,
+                114
+            ],
+            [
+                198,
+                111
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "21549": {
+        "input_points": [
+            [
+                107,
+                45
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "21676": {
+        "input_points": [
+            [
+                85,
+                62
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "21788": {
+        "input_points": [
+            [
+                171,
+                37
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "21823": {
+        "input_points": [
+            [
+                195,
+                55
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "21994": {
+        "input_points": [
+            [
+                122,
+                46
+            ],
+            [
+                123,
+                98
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "22237": {
+        "input_points": [
+            [
+                90,
+                110
+            ],
+            [
+                123,
+                87
+            ],
+            [
+                169,
+                110
+            ],
+            [
+                210,
+                104
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "22313": {
+        "input_points": [
+            [
+                125,
+                57
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 652
+    },
+    "22389": {
+        "input_points": [
+            [
+                59,
+                105
+            ],
+            [
+                103,
+                114
+            ],
+            [
+                123,
+                100
+            ],
+            [
+                155,
+                116
+            ],
+            [
+                195,
+                111
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "22740": {
+        "input_points": [
+            [
+                56,
+                114
+            ],
+            [
+                97,
+                123
+            ],
+            [
+                128,
+                120
+            ],
+            [
+                163,
+                120
+            ],
+            [
+                192,
+                115
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "23293": {
+        "input_points": [
+            [
+                111,
+                37
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 433
+    },
+    "23604": {
+        "input_points": [
+            [
+                140,
+                49
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "23612": {
+        "input_points": [
+            [
+                26,
+                39
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 808
+    },
+    "23690": {
+        "input_points": [
+            [
+                85,
+                118
+            ],
+            [
+                121,
+                108
+            ],
+            [
+                171,
+                123
+            ],
+            [
+                193,
+                118
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "24139": {
+        "input_points": [
+            [
+                109,
+                34
+            ],
+            [
+                148,
+                12
+            ],
+            [
+                169,
+                55
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 793
+    },
+    "24159": {
+        "input_points": [
+            [
+                61,
+                117
+            ],
+            [
+                87,
+                120
+            ],
+            [
+                126,
+                114
+            ],
+            [
+                155,
+                117
+            ],
+            [
+                199,
+                112
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "24428": {
+        "input_points": [
+            [
+                164,
+                21
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 652
+    },
+    "24469": {
+        "input_points": [
+            [
+                183,
+                48
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 433
+    },
+    "24551": {
+        "input_points": [
+            [
+                48,
+                114
+            ],
+            [
+                90,
+                123
+            ],
+            [
+                129,
+                117
+            ],
+            [
+                166,
+                109
+            ],
+            [
+                191,
+                109
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    },
+    "24662": {
+        "input_points": [
+            [
+                158,
+                40
+            ],
+            [
+                143,
+                79
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "24784": {
+        "input_points": [
+            [
+                162,
+                42
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "25017": {
+        "input_points": [
+            [
+                121,
+                40
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 433
+    },
+    "25497": {
+        "input_points": [
+            [
+                56,
+                37
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "25560": {
+        "input_points": [
+            [
+                108,
+                21
+            ],
+            [
+                128,
+                81
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 808
+    },
+    "25791": {
+        "input_points": [
+            [
+                86,
+                120
+            ],
+            [
+                122,
+                114
+            ],
+            [
+                151,
+                123
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 837
+    },
+    "25893": {
+        "input_points": [
+            [
+                29,
+                39
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 808
+    },
+    "26919": {
+        "input_points": [
+            [
+                13,
+                51
+            ],
+            [
+                191,
+                45
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "26924": {
+        "input_points": [
+            [
+                101,
+                123
+            ],
+            [
+                126,
+                117
+            ],
+            [
+                166,
+                122
+            ],
+            [
+                191,
+                117
+            ],
+            [
+                61,
+                117
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 837
+    },
+    "27171": {
+        "input_points": [
+            [
+                42,
+                39
+            ],
+            [
+                99,
+                64
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 981
+    },
+    "27583": {
+        "input_points": [
+            [
+                129,
+                61
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "27734": {
+        "input_points": [
+            [
+                124,
+                37
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "28101": {
+        "input_points": [
+            [
+                98,
+                26
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 981
+    },
+    "28836": {
+        "input_points": [
+            [
+                88,
+                30
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 652
+    },
+    "29267": {
+        "input_points": [
+            [
+                138,
+                19
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 808
+    },
+    "29347": {
+        "input_points": [
+            [
+                57,
+                84
+            ],
+            [
+                108,
+                64
+            ],
+            [
+                183,
+                72
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 430
+    },
+    "29348": {
+        "input_points": [
+            [
+                140,
+                30
+            ],
+            [
+                185,
+                51
+            ],
+            [
+                54,
+                91
+            ],
+            [
+                13,
+                56
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 515
+    },
+    "29410": {
+        "input_points": [
+            [
+                132,
+                50
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 652
+    },
+    "29836": {
+        "input_points": [
+            [
+                100,
+                43
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 433
+    },
+    "29900": {
+        "input_points": [
+            [
+                87,
+                111
+            ],
+            [
+                120,
+                105
+            ],
+            [
+                166,
+                129
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 836
+    }
+}

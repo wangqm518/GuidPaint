@@ -1,0 +1,1000 @@
+0: n01440764: 丁鲷; tench, Tinca tinca
+1: n01443537: 金鱼; goldfish, Carassius auratus
+2: n01484850: 大白鲨; great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
+3: n01491361: 虎鲨; tiger shark, Galeocerdo cuvieri
+4: n01494475: 双髻鲨; hammerhead, hammerhead shark
+5: n01496331: 电鳐; electric ray, crampfish, numbfish, torpedo
+6: n01498041: 刺魟; stingray
+7: n01514668: 公鸡; cock
+8: n01514859: 母鸡; hen
+9: n01518878: 鸵鸟; ostrich, Struthio camelus
+10: n01530575: 燕雀; brambling, Fringilla montifringilla
+11: n01531178: 金翅雀; goldfinch, Carduelis carduelis
+12: n01532829: 家朱雀; house finch, linnet, Carpodacus mexicanus
+13: n01534433: 灯草鹀; junco, snowbird
+14: n01537544: 靛蓝彩鹀; indigo bunting, indigo finch, indigo bird, Passerina cyanea
+15: n01558993: 知更鸟; robin, American robin, Turdus migratorius
+16: n01560419: 鹎; bulbul
+17: n01580077: 松鸦; jay
+18: n01582220: 喜鹊; magpie
+19: n01592084: 山雀; chickadee
+20: n01601694: 河乌; water ouzel, dipper
+21: n01608432: 鸢; kite
+22: n01614925: 白头海雕; bald eagle, American eagle, Haliaeetus leucocephalus
+23: n01616318: 秃鹫; vulture
+24: n01622779: 乌林鸮; great grey owl, great gray owl, Strix nebulosa
+25: n01629819: 火蝾螈; European fire salamander, Salamandra salamandra
+26: n01630670: 普通蝾螈; common newt, Triturus vulgaris
+27: n01631663: 水蜥; eft
+28: n01632458: 斑点钝口螈; spotted salamander, Ambystoma maculatum
+29: n01632777: 美西螈; axolotl, mud puppy, Ambystoma mexicanum
+30: n01641577: 牛蛙; bullfrog, Rana catesbeiana
+31: n01644373: 树蛙; tree frog, tree-frog
+32: n01644900: 尾蟾; tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+33: n01664065: 红海龟; loggerhead, loggerhead turtle, Caretta caretta
+34: n01665541: 棱皮龟; leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+35: n01667114: 泥龟; mud turtle
+36: n01667778: 水龟; terrapin
+37: n01669191: 箱龟; box turtle, box tortoise
+38: n01675722: 带纹壁虎; banded gecko
+39: n01677366: 绿鬣蜥; common iguana, iguana, Iguana iguana
+40: n01682714: 美洲变色龙; American chameleon, anole, Anolis carolinensis
+41: n01685808: 鞭尾蜥; whiptail, whiptail lizard
+42: n01687978: 飞蜥; agama
+43: n01688243: 伞蜥; frilled lizard, Chlamydosaurus kingi
+44: n01689811: 鳄蜥; alligator lizard
+45: n01692333: 毒蜥; Gila monster, Heloderma suspectum
+46: n01693334: 绿蜥蜴; green lizard, Lacerta viridis
+47: n01694178: 非洲变色龙; African chameleon, Chamaeleo chamaeleon
+48: n01695060: 科莫多巨蜥; Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis
+49: n01697457: 尼罗鳄; African crocodile, Nile crocodile, Crocodylus niloticus
+50: n01698640: 密河鳄; American alligator, Alligator mississipiensis
+51: n01704323: 三角龙; triceratops
+52: n01728572: 蠕蛇; thunder snake, worm snake, Carphophis amoenus
+53: n01728920: 环颈蛇; ringneck snake, ring-necked snake, ring snake
+54: n01729322: 猪鼻蛇; hognose snake, puff adder, sand viper
+55: n01729977: 草蛇; green snake, grass snake
+56: n01734418: 王蛇; king snake, kingsnake
+57: n01735189: 束带蛇; garter snake, grass snake
+58: n01737021: 水蛇; water snake
+59: n01739381: 藤蛇; vine snake
+60: n01740131: 夜蛇; night snake, Hypsiglena torquata
+61: n01742172: 蟒蛇; boa constrictor, Constrictor constrictor
+62: n01744401: 岩蟒; rock python, rock snake, Python sebae
+63: n01748264: 印度眼镜蛇; Indian cobra, Naja naja
+64: n01749939: 绿曼巴; green mamba
+65: n01751748: 海蛇; sea snake
+66: n01753488: 角蝰; horned viper, cerastes, sand viper, horned asp, Cerastes cornutus
+67: n01755581: 菱背响尾蛇; diamondback, diamondback rattlesnake, Crotalus adamanteus
+68: n01756291: 角响尾蛇; sidewinder, horned rattlesnake, Crotalus cerastes
+69: n01768244: 三叶虫; trilobite
+70: n01770081: 盲蛛; harvestman, daddy longlegs, Phalangium opilio
+71: n01770393: 蝎子; scorpion
+72: n01773157: 金蛛; black and gold garden spider, Argiope aurantia
+73: n01773549: 谷仓蜘蛛; barn spider, Araneus cavaticus
+74: n01773797: 花园十字蛛; garden spider, Aranea diademata
+75: n01774384: 黑寡妇蜘蛛; black widow, Latrodectus mactans
+76: n01774750: 狼蛛; tarantula
+77: n01775062: 狼蛛; wolf spider, hunting spider
+78: n01776313: 蜱虫; tick
+79: n01784675: 蜈蚣; centipede
+80: n01795545: 黑琴鸡; black grouse
+81: n01796340: 雷鸟; ptarmigan
+82: n01797886: 披肩榛鸡; ruffed grouse, partridge, Bonasa umbellus
+83: n01798484: 草原松鸡; prairie chicken, prairie grouse, prairie fowl
+84: n01806143: 孔雀; peacock
+85: n01806567: 鹌鹑; quail
+86: n01807496: 山鹑; partridge
+87: n01817953: 非洲灰鹦鹉; African grey, African gray, Psittacus erithacus
+88: n01818515: 金刚鹦鹉; macaw
+89: n01819313: 葵花凤头鹦鹉; sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
+90: n01820546: 吸蜜鹦鹉; lorikeet
+91: n01824575: 鸦鹃; coucal
+92: n01828970: 蜂虎; bee eater
+93: n01829413: 犀鸟; hornbill
+94: n01833805: 蜂鸟; hummingbird
+95: n01843065: 鹟䴕; jacamar
+96: n01843383: 巨嘴鸟; toucan
+97: n01847000: 公鸭; drake
+98: n01855032: 红胸秋沙鸭; red-breasted merganser, Mergus serrator
+99: n01855672: 鹅; goose
+100: n01860187: 黑天鹅; black swan, Cygnus atratus
+101: n01871265: 长牙象; tusker
+102: n01872401: 针鼹; echidna, spiny anteater, anteater
+103: n01873310: 鸭嘴兽，Ornithorhynchus anatinus; platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus
+104: n01877812: 沙袋鼠; wallaby, brush kangaroo
+105: n01882714: 考拉，Phascolarctos cinereus; koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+106: n01883070: 袋熊; wombat
+107: n01910747: 水母; jellyfish
+108: n01914609: 海葵; sea anemone, anemone
+109: n01917289: 脑珊瑚; brain coral
+110: n01924916: 扁虫; flatworm, platyhelminth
+111: n01930112: 线虫; nematode, nematode worm, roundworm
+112: n01943899: 海螺; conch
+113: n01944390: 蜗牛; snail
+114: n01945685: 蛞蝓; slug
+115: n01950731: 海蛞蝓; sea slug, nudibranch
+116: n01955084: 石鳖; chiton, coat-of-mail shell, sea cradle, polyplacophore
+117: n01968897: 鹦鹉螺; chambered nautilus, pearly nautilus, nautilus
+118: n01978287: 珍宝蟹; Dungeness crab, Cancer magister
+119: n01978455: 岩蟹; rock crab, Cancer irroratus
+120: n01980166: 招潮蟹; fiddler crab
+121: n01981276: 帝王蟹; king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica
+122: n01983481: 美洲龙虾; American lobster, Northern lobster, Maine lobster, Homarus americanus
+123: n01984695: 龙虾; spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
+124: n01985128: 小龙虾; crayfish, crawfish, crawdad, crawdaddy
+125: n01986214: 寄居蟹; hermit crab
+126: n01990800: 等足类; isopod
+127: n02002556: 白鹳; white stork, Ciconia ciconia
+128: n02002724: 黑鹳; black stork, Ciconia nigra
+129: n02006656: 琵鹭; spoonbill
+130: n02007558: 火烈鸟; flamingo
+131: n02009229: 小蓝鹭; little blue heron, Egretta caerulea
+132: n02009912: 大白鹭; American egret, great white heron, Egretta albus
+133: n02011460: 麻鸦; bittern
+134: n02012849: 鹤; crane
+135: n02013706: 秧鹤; limpkin, Aramus pictus
+136: n02017213: 紫水鸡; European gallinule, Porphyrio porphyrio
+137: n02018207: 美洲骨顶鸡; American coot, marsh hen, mud hen, water hen, Fulica americana
+138: n02018795: 鸨; bustard
+139: n02025239: 翻石鹬; ruddy turnstone, Arenaria interpres
+140: n02027492: 滨鹬; red-backed sandpiper, dunlin, Erolia alpina
+141: n02028035: 红脚鹬; redshank, Tringa totanus
+142: n02033041: 杓鹬; dowitcher
+143: n02037110: 蛎鹬; oystercatcher, oyster catcher
+144: n02051845: 鹈鹕; pelican
+145: n02056570: 王企鹅; king penguin, Aptenodytes patagonica
+146: n02058221: 信天翁; albatross, mollymawk
+147: n02066245: 灰鲸、灰鲸、魔鬼鱼、Eschrichtius gibbosus、Eschrichtius robustus; grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+148: n02071294: 虎鲸、逆戟鲸、Orcinus orca; killer whale, killer, orca, grampus, sea wolf, Orcinus orca
+149: n02074367: 儒艮，Dugong dugon; dugong, Dugong dugon
+150: n02077923: 海狮; sea lion
+151: n02085620: 吉娃娃; Chihuahua
+152: n02085782: 日本狆; Japanese spaniel
+153: n02085936: 马尔济斯犬; Maltese dog, Maltese terrier, Maltese
+154: n02086079: 北京犬; Pekinese, Pekingese, Peke
+155: n02086240: 西施犬; Shih-Tzu
+156: n02086646: 布伦海姆猎犬; Blenheim spaniel
+157: n02086910: 蝴蝶犬; papillon
+158: n02087046: 玩具㹴; toy terrier
+159: n02087394: 罗得西亚脊背犬; Rhodesian ridgeback
+160: n02088094: 阿富汗猎犬; Afghan hound, Afghan
+161: n02088238: 巴吉度猎犬; basset, basset hound
+162: n02088364: 比格犬; beagle
+163: n02088466: 寻血猎犬; bloodhound, sleuthhound
+164: n02088632: 蓝斑猎浣熊犬; bluetick
+165: n02089078: 黑褐猎浣熊犬; black-and-tan coonhound
+166: n02089867: 猎狐犬; Walker hound, Walker foxhound
+167: n02089973: 英国猎狐犬; English foxhound
+168: n02090379: 红骨猎浣熊犬; redbone
+169: n02090622: 俄罗斯猎狼犬; borzoi, Russian wolfhound
+170: n02090721: 爱尔兰猎狼犬; Irish wolfhound
+171: n02091032: 意大利灵缇; Italian greyhound
+172: n02091134: 惠比特犬; whippet
+173: n02091244: 伊比赞猎犬; Ibizan hound, Ibizan Podenco
+174: n02091467: 挪威猎鹿犬; Norwegian elkhound, elkhound
+175: n02091635: 水獭猎犬; otterhound, otter hound
+176: n02091831: 萨路基猎犬; Saluki, gazelle hound
+177: n02092002: 苏格兰猎鹿犬; Scottish deerhound, deerhound
+178: n02092339: 魏玛猎犬; Weimaraner
+179: n02093256: 斯塔福郡斗牛㹴; Staffordshire bullterrier, Staffordshire bull terrier
+180: n02093428: 美国斯塔福郡㹴; American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier
+181: n02093647: 贝灵顿㹴; Bedlington terrier
+182: n02093754: 边境㹴; Border terrier
+183: n02093859: 凯利蓝㹴; Kerry blue terrier
+184: n02093991: 爱尔兰㹴; Irish terrier
+185: n02094114: 诺福克㹴; Norfolk terrier
+186: n02094258: 诺里奇㹴; Norwich terrier
+187: n02094433: 约克夏㹴; Yorkshire terrier
+188: n02095314: 刚毛猎狐㹴; wire-haired fox terrier
+189: n02095570: 湖畔㹴; Lakeland terrier
+190: n02095889: 西里汉㹴; Sealyham terrier, Sealyham
+191: n02096051: 万能㹴; Airedale, Airedale terrier
+192: n02096177: 凯恩㹴; cairn, cairn terrier
+193: n02096294：澳大利亚㹴犬
+194: n02096437: 丹迪丁蒙㹴; Dandie Dinmont, Dandie Dinmont terrier
+195: n02096585: 波士顿㹴; Boston bull, Boston terrier
+196: n02097047: 迷你雪纳瑞; miniature schnauzer
+197: n02097130: 巨型雪纳瑞; giant schnauzer
+198: n02097209: 标准雪纳瑞; standard schnauzer
+199: n02097298: 苏格兰㹴; Scotch terrier, Scottish terrier, Scottie
+200: n02097474: 西藏㹴; Tibetan terrier, chrysanthemum dog
+201: n02097658: 丝毛㹴; silky terrier, Sydney silky
+202: n02098105: 软毛麦色㹴; soft-coated wheaten terrier
+203: n02098286: 西高地白㹴; West Highland white terrier
+204: n02098413: 拉萨犬; Lhasa, Lhasa apso
+205: n02099267: 平毛寻回犬; flat-coated retriever
+206: n02099429: 卷毛寻回犬; curly-coated retriever
+207: n02099601: 金毛寻回犬; golden retriever
+208: n02099712: 拉布拉多寻回犬; Labrador retriever
+209: n02099849: 切萨皮克湾寻回犬; Chesapeake Bay retriever
+210: n02100236: 德国短毛指示犬; German short-haired pointer
+211: n02100583: 维兹拉犬; vizsla, Hungarian pointer
+212: n02100735: 英国雪达犬; English setter
+213: n02100877: 爱尔兰雪达犬; Irish setter, red setter
+214: n02101006: 戈登雪达犬; Gordon setter
+215: n02101388: 布列塔尼猎犬; Brittany spaniel
+216: n02101556: 克伦伯猎犬; clumber, clumber spaniel
+217: n02102040: 英国激飞猎犬; English springer, English springer spaniel
+218: n02102177: 威尔士激飞猎犬; Welsh springer spaniel
+219: n02102318: 可卡犬; cocker spaniel, English cocker spaniel, cocker
+220: n02102480: 苏塞克斯猎犬; Sussex spaniel
+221: n02102973: 爱尔兰水猎犬; Irish water spaniel
+222: n02104029: 库瓦兹犬; kuvasz
+223: n02104365: 比利时牧羊犬; schipperke
+224: n02105056: 比利时特伏丹犬; groenendael
+225: n02105162: 马利诺犬; malinois
+226: n02105251: 伯瑞犬; briard
+227: n02105412: 澳大利亚卡尔比犬; kelpie
+228: n02105505: 可蒙犬; komondor
+229: n02105641: 古代英国牧羊犬; Old English sheepdog, bobtail
+230: n02105855: 喜乐蒂牧羊犬; Shetland sheepdog, Shetland sheep dog, Shetland
+231: n02106030: 柯利牧羊犬; collie
+232: n02106166: 边境牧羊犬; Border collie
+233: n02106382: 佛兰德牧牛犬; Bouvier des Flandres, Bouviers des Flandres
+234: n02106550: 罗威纳犬; Rottweiler
+235: n02106662: 德国牧羊犬; German shepherd, German shepherd dog, German police dog, alsatian
+236: n02107142: 杜宾犬; Doberman, Doberman pinscher
+237: n02107312: 迷你杜宾犬; miniature pinscher
+238: n02107574: 大瑞士山地犬; Greater Swiss Mountain dog
+239: n02107683: 伯恩山犬; Bernese mountain dog
+240: n02107908: 阿彭策尔犬; Appenzeller
+241: n02108000: 恩特雷布赫山地犬; EntleBucher
+242: n02108089: 拳师犬; boxer
+243: n02108422: 斗牛獒; bull mastiff
+244: n02108551: 藏獒; Tibetan mastiff
+245: n02108915: 法国斗牛犬; French bulldog
+246: n02109047: 大丹犬; Great Dane
+247: n02109525: 圣伯纳犬; Saint Bernard, St Bernard
+248: n02109961: 爱斯基摩犬、哈士奇; Eskimo dog, husky
+249: n02110063: 阿拉斯加雪橇犬、爱斯基摩犬; malamute, malemute, Alaskan malamute
+250: n02110185: 西伯利亚雪橇犬; Siberian_husky
+251: n02110341: 斑点狗、马车犬; dalmatian, coach dog, carriage dog
+252: n02110627: 猴面犬; affenpinscher, monkey pinscher, monkey dog
+253: n02110806: 巴仙吉犬; basenji
+254: n02110958: 巴哥犬; pug, pug-dog
+255: n02111129: 莱昂伯格犬; Leonberg
+256: n02111277: 纽芬兰犬; Newfoundland, Newfoundland dog
+257: n02111500: 大白熊犬; Great Pyrenees
+258: n02111889: 萨摩耶犬; Samoyed, Samoyede
+259: n02112018: 博美犬; Pomeranian
+260: n02112137: 松狮犬; chow, chow chow
+261: n02112350: 荷兰毛狮犬; keeshond
+262: n02112706: 布鲁塞尔格里芬犬; Brabancon griffon
+263: n02113023: 彭布罗克威尔士柯基; Pembroke, Pembroke Welsh corgi
+264: n02113186: 卡迪根威尔士柯基; Cardigan, Cardigan Welsh corgi
+265: n02113624: 玩具贵宾犬; toy poodle
+266: n02113712: 迷你贵宾犬; miniature poodle
+267: n02113799: 标准贵宾犬; standard poodle
+268: n02113978: 墨西哥无毛犬; Mexican hairless
+269: n02114367: 灰狼，Canis lupus; timber wolf, grey wolf, gray wolf, Canis lupus
+270: n02114548: 北极狼，Canis lupus tundrarum; white wolf, Arctic wolf, Canis lupus tundrarum
+271: n02114712: 红狼、鬃狼，Canis rufus, Canis niger; red wolf, maned wolf, Canis rufus, Canis niger
+272: n02114855: 郊狼，Canis latrans; coyote, prairie wolf, brush wolf, Canis latrans
+273: n02115641: 澳洲野犬，Canis dingo; dingo, warrigal, warragal, Canis dingo
+274: n02115913: 豺; dhole, Cuon alpinus
+275: n02116738: 非洲野犬，Lycaon pictus; African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus
+276: n02117135: 鬣狗; hyena, hyaena
+277: n02119022: 赤狐，Vulpes vulpes; red fox, Vulpes vulpes
+278: n02119789: 沙狐，Vulpes macrotis; kit fox, Vulpes macrotis
+279: n02120079: 北极狐，Alopex lagopus; Arctic fox, white fox, Alopex lagopus
+280: n02120505: 灰狐，Urocyon cinereoargenteus; grey fox, gray fox, Urocyon cinereoargenteus
+281: n02123045: 虎斑猫; tabby, tabby cat
+282: n02123159: 虎猫; tiger cat
+283: n02123394: 波斯猫; Persian cat
+284: n02123597: 暹罗猫; Siamese cat, Siamese
+285: n02124075: 埃及猫; Egyptian cat
+286: n02125311: 美洲狮、山狮、猫科动物、Felis concolor; cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+287: n02127052: 猞猁; lynx, catamount
+288: n02128385: 豹，Panthera pardus; leopard, Panthera pardus
+289: n02128757: 雪豹; snow leopard, ounce, Panthera uncia
+290: n02128925: 美洲豹、Panthera onca; jaguar, panther, Panthera onca, Felis onca
+291: n02129165: 狮，Panthera leo; lion, king of beasts, Panthera leo
+292: n02129604: 虎，Panthera tigris; tiger, Panthera tigris
+293: n02130308: 猎豹，Acinonyx jubatus; cheetah, chetah, Acinonyx jubatus
+294: n02132136: 棕熊; brown bear, bruin, Ursus arctos
+295: n02133161: 美洲黑熊，Ursus americanus; American black bear, black bear, Ursus americanus, Euarctos americanus
+296: n02134084: 北极熊，Ursus Maritimus; ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
+297: n02134418: 懒熊，Melursus ursinus; sloth bear, Melursus ursinus, Ursus ursinus
+298: n02137549: 猫鼬; mongoose
+299: n02138441: 狐獴; meerkat, mierkat
+300: n02165105: 虎甲虫; tiger beetle
+301: n02165456: 瓢虫; ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle
+302: n02167151: 步甲; ground beetle, carabid beetle
+303: n02168699: 天牛; long-horned beetle, longicorn, longicorn beetle
+304: n02169497: 叶甲; leaf beetle, chrysomelid
+305: n02172182: 蜣螂; dung beetle
+306: n02174001: 犀金龟; rhinoceros beetle
+307: n02177972: 象鼻虫; weevil
+308: n02190166: 苍蝇; fly
+309: n02206856: 蜜蜂; bee
+310: n02219486: 蚂蚁; ant, emmet, pismire
+311: n02226429: 蚱蜢; grasshopper, hopper
+312: n02229544: 蟋蟀; cricket
+313: n02231487: 竹节虫; walking stick, walkingstick, stick insect
+314: n02233338: 蟑螂; cockroach, roach
+315: n02236044: 螳螂; mantis, mantid
+316: n02256656: 蝉; cicada, cicala
+317: n02259212: 叶蝉; leafhopper
+318: n02264363: 草蛉; lacewing, lacewing fly
+319: n02268443: 蜻蜓; dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+320: n02268853: 豆娘; damselfly
+321: n02276258: 红蛱蝶; admiral
+322: n02277742: 眼蝶; ringlet, ringlet butterfly
+323: n02279972: 帝王蝶; monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+324: n02280649: 菜粉蝶; cabbage butterfly
+325: n02281406: 黄粉蝶; sulphur butterfly, sulfur butterfly
+326: n02281787: 灰蝶; lycaenid, lycaenid butterfly
+327: n02317335: 海星; starfish, sea star
+328: n02319095: 海胆; sea urchin
+329: n02321529: 海参; sea cucumber, holothurian
+330: n02325366: 棉尾兔; wood rabbit, cottontail, cottontail rabbit
+331: n02326432: 野兔; hare
+332: n02328150: 安哥拉兔; Angora, Angora rabbit
+333: n02342885: 仓鼠; hamster
+334: n02346627: 豪猪、刺猬; porcupine, hedgehog
+335: n02356798: 狐松鼠，Sciurus niger; fox squirrel, eastern fox squirrel, Sciurus niger
+336: n02361337: 旱獭; marmot
+337: n02363005: 河狸; beaver
+338: n02364673: 豚鼠，Cavia cobaya; guinea pig, Cavia cobaya
+339: n02389026: 栗色马; sorrel
+340: n02391049: 斑马; zebra
+341: n02395406: 猪，Sus scrofa; hog, pig, grunter, squealer, Sus scrofa
+342: n02396427: 野猪，Sus scrofa; wild boar, boar, Sus scrofa
+343: n02397096: 疣猪; warthog
+344: n02398521: 河马，Hippopotamus amphibius; hippopotamus, hippo, river horse, Hippopotamus amphibius
+345: n02403003: 牛; ox
+346: n02408429: 水牛，Bubalus bubalis; water buffalo, water ox, Asiatic buffalo, Bubalus bubalis
+347: n02410509: 野牛; bison
+348: n02412080: 公羊; ram, tup
+349: n02415577: 大角羊，Ovis canadensis; bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+350: n02417914: 北山羊，Capra ibex; ibex, Capra ibex
+351: n02422106: 狷羚; hartebeest
+352: n02422699: 黑斑羚，Aepyceros melampus; impala, Aepyceros melampus
+353: n02423022: 羚羊; gazelle
+354: n02437312: 单峰骆驼，Camelus dromedarius; Arabian camel, dromedary, Camelus dromedarius
+355: n02437616: 羊驼; llama
+356: n02441942: 鼬; weasel
+357: n02442845: 貂; mink
+358: n02443114: 臭鼬，Mustela putorius; polecat, fitch, foulmart, foumart, Mustela putorius
+359: n02443484: 黑足鼬，Mustela nigripes; black-footed ferret, ferret, Mustela nigripes
+360: n02444819: 水獭; otter
+361: n02445715: 臭鼬; skunk, polecat, wood pussy
+362: n02447366: 獾; badger
+363: n02454379: 犰狳; armadillo
+364: n02457408: 三趾树懒，Bradypus tridactylus; three-toed sloth, ai, Bradypus tridactylus
+365: n02480495: 猩猩，Pongo pygmaeus; orangutan, orang, orangutang, Pongo pygmaeus
+366: n02480855: 大猩猩，Gorilla gorilla; gorilla, Gorilla gorilla
+367: n02481823: 黑猩猩，Pan troglodytes; chimpanzee, chimp, Pan troglodytes
+368: n02483362: 长臂猿，Hylobates lar; gibbon, Hylobates lar
+369: n02483708: 合趾猴，Symphalangus syndactylus; siamang, Hylobates syndactylus, Symphalangus syndactylus
+370: n02484975: 长尾猴; guenon, guenon monkey
+371: n02486261: 赤猴，Erythrocebus patas; patas, hussar monkey, Erythrocebus patas
+372: n02486410: 狒狒; baboon
+373: n02487347: 猕猴; macaque
+374: n02488291: 叶猴; langur
+375: n02488702: 疣猴; colobus, colobus monkey
+376: n02489166: 长鼻猴，Nasalis larvatus; proboscis monkey, Nasalis larvatus
+377: n02490219: 狨猴; marmoset
+378: n02492035: 卷尾猴，Cebus capucinus; capuchin, ringtail, Cebus capucinus
+379: n02492660: 吼猴; howler monkey, howler
+380: n02493509: 伶猴; titi, titi monkey
+381: n02493793: 蜘蛛猴，Ateles geoffroyi; spider monkey, Ateles geoffroyi
+382: n02494079: 松鼠猴，Saimiri sciureus; squirrel monkey, Saimiri sciureus
+383: n02497673: 环尾狐猴，Lemur catta; Madagascar cat, ring-tailed lemur, Lemur catta
+384: n02500267: 大狐猴，Indri indri; indri, indris, Indri indri, Indri brevicaudatus
+385: n02504013: 亚洲象，Elephas maximus; Indian elephant, Elephas maximus
+386: n02504458: 非洲象，Loxodonta africana; African elephant, Loxodonta africana
+387: n02509815: 小熊猫、红熊猫、熊猫、猫熊、Ailurus fulgens; lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
+388: n02510455: 大熊猫，Ailuropoda melanoleuca; giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+389: n02514041: 梭鱼; barracouta, snoek
+390: n02526121: 鳗鱼; eel
+391: n02536864: 银鲑; coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch
+392: n02606052: 石美人鱼; rock beauty, Holocanthus tricolor
+393: n02607072: 小丑鱼; anemone fish
+394: n02640242: 鲟鱼; sturgeon
+395: n02641379: 雀鳝; gar, garfish, garpike, billfish, Lepisosteus osseus
+396: n02643566: 狮子鱼; lionfish
+397: n02655020: 河豚; puffer, pufferfish, blowfish, globefish
+398: n02666196: 算盘; abacus
+399: n02667093: 女性阿拉伯长袍; abaya
+400: n02669723: 学位袍; academic gown, academic robe, judge's robe
+401: n02672831: 手风琴; accordion, piano accordion, squeeze box
+402: n02676566: 木吉他; acoustic guitar
+403: n02687172: 航空母舰; aircraft carrier, carrier, flattop, attack aircraft carrier
+404: n02690373: 客机; airliner
+405: n02692877: 飞艇; airship, dirigible
+406: n02699494: 祭坛; altar
+407: n02701002: 救护车; ambulance
+408: n02704792: 两栖车辆; amphibian, amphibious vehicle
+409: n02708093: 模拟时钟; analog clock
+410: n02727426: 蜂房; apiary, bee house
+411: n02730930: 围裙; apron
+412: n02747177: 垃圾桶; ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+413: n02749479: 突击步枪; assault rifle, assault gun
+414: n02769748: 背包; backpack, back pack, knapsack, packsack, rucksack, haversack
+415: n02776631: 面包店; bakery, bakeshop, bakehouse
+416: n02777292: 平衡木; balance beam, beam
+417: n02782093: 热气球; balloon
+418: n02783161: 圆珠笔; ballpoint, ballpoint pen, ballpen, Biro
+419: n02786058: 创可贴; Band Aid
+420: n02787622: 班卓琴; banjo
+421: n02788148: 栏杆; bannister, banister, balustrade, balusters, handrail
+422: n02790996: 杠铃; barbell
+423: n02791124: 理发椅; barber chair
+424: n02791270: 理发店; barbershop
+425: n02793495: 谷仓; barn
+426: n02794156: 气压计; barometer
+427: n02795169: 木桶; barrel, cask
+428: n02797295: 手推车; barrow, garden cart, lawn cart, wheelbarrow
+429: n02799071: 棒球; baseball
+430: n02802426: 篮球; basketball
+431: n02804414: 婴儿摇篮; bassinet
+432: n02804610: 巴松管; bassoon
+433: n02807133: 泳帽; bathing cap, swimming cap（泳帽）
+434: n02808304: 浴巾; bath towel
+435: n02808440: 浴缸; bathtub, bathing tub, bath, tub
+436: n02814533: 旅行车; beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+437: n02814860: 灯塔; beacon, lighthouse, beacon light, pharos
+438: n02815834: 烧杯; beaker
+439: n02817516: 熊皮帽; bearskin, busby（毛皮高帽）, shako（英国军队桶形军帽）
+440: n02823428: 啤酒瓶; beer bottle
+441: n02823750: 啤酒杯; beer glass
+442: n02825657: 钟楼; bell cote, bell cot
+443: n02834397: 吃饭围嘴; bib
+444: n02835271: 双人自行车; bicycle-built-for-two, tandem bicycle, tandem
+445: n02837789: 比基尼; bikini, two-piece
+446: n02840245: 活页夹; binder, ring-binder
+447: n02841315: 双筒望远镜; binoculars, field glasses, opera glasses
+448: n02843684: 鸟屋; birdhouse
+449: n02859443: 船库; boathouse
+450: n02860847: 雪橇; bobsled, bobsleigh, bob
+451: n02865351: 波洛领带; bolo tie, bolo, bola tie, bola
+452: n02869837: 小女孩帽; bonnet, poke bonnet
+453: n02870880: 书架; bookcase
+454: n02871525: 书店; bookshop, bookstore, bookstall
+455: n02877765: 瓶盖; bottlecap（瓶盖）
+456: n02879718: 弓; bow
+457: n02883205: 领结; bow tie, bow-tie, bowtie
+458: n02892201: 铜牌; brass, memorial tablet, plaque
+459: n02892767: 文胸; brassiere, bra, bandeau
+460: n02894605: 防波堤; breakwater, groin, groyne, mole, bulwark, seawall, jetty
+461: n02895154: 胸甲; breastplate, aegis, egis
+462: n02906734: 扫帚; broom
+463: n02909870: 水桶; bucket, pail
+464: n02910353: 皮带扣; buckle
+465: n02916936: 防弹背心; bulletproof vest
+466: n02917067: 子弹头列车; bullet train, bullet
+467: n02927161: 肉铺; butcher shop, meat market
+468: n02930766: 出租车; cab, hack, taxi, taxicab
+469: n02939185: 大锅; caldron, cauldron
+470: n02948072: 蜡烛; candle, taper, wax light
+471: n02950826: 大炮; cannon
+472: n02951358: 独木舟; canoe
+473: n02951585: 开罐器; can opener, tin opener
+474: n02963159: 开襟衫; cardigan
+475: n02965783: 后视镜; car mirror
+476: n02966193: 旋转木马; carousel, carrousel, merry-go-round, roundabout, whirligig
+477: n02966687: 工具箱; carpenter's kit, tool kit
+478: n02971356: 纸箱; carton
+479: n02974003: 车轮; car wheel
+480: n02977058: 自动取款机; cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+481: n02978881: 磁带; cassette（磁带）
+482: n02979186: 磁带播放器; cassette player（磁带播放器）
+483: n02980441: 城堡; castle
+484: n02981792: 双体船; catamaran
+485: n02988304: CD播放器; CD player（CD光盘播放器）
+486: n02992211: 大提琴; cello, violoncello
+487: n02992529: 手机; cellular telephone, cellular phone, cellphone, cell, mobile phone
+488: n02999410: 链条; chain
+489: n03000134: 铁丝网; chainlink fence
+490: n03000247: 锁子甲; chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
+491: n03000684: 链锯; chain saw, chainsaw
+492: n03014705: 箱子; chest
+493: n03016953: 五斗柜; chiffonier, commode
+494: n03017168: 编钟; chime, bell, gong
+495: n03018349: 瓷器柜; china cabinet, china closet
+496: n03026506: 圣诞袜; Christmas stocking
+497: n03028079: 教堂; church, church building
+498: n03032252: 电影院; cinema, movie theater, movie theatre, movie house, picture palace
+499: n03041632: 剁肉刀; cleaver, meat cleaver, chopper
+500: n03042490: 崖居; cliff dwelling
+501: n03045698: 斗篷; cloak
+502: n03047690: 木屐; clog, geta, patten, sabot
+503: n03062245: 调酒器; cocktail shaker
+504: n03063599: 咖啡杯; coffee mug
+505: n03063689: 咖啡壶; coffeepot
+506: n03065424: 螺旋; coil, spiral, volute, whorl, helix
+507: n03075370: 密码锁; combination lock
+508: n03085013: 电脑键盘; computer keyboard, keypad
+509: n03089624: 糖果店; confectionery, confectionary, candy store
+510: n03095699: 集装箱船; container ship, containership, container vessel
+511: n03100240: 敞篷车; convertible
+512: n03109150: 开瓶器; corkscrew, bottle screw
+513: n03110669: 短号; cornet, horn, trumpet, trump
+514: n03124043: 牛仔靴; cowboy boot
+515: n03124170: 牛仔帽; cowboy hat, ten-gallon hat（牛仔帽）
+516: n03125729: 摇篮; cradle
+517: n03126707: 起重机; crane
+518: n03127747: 安全头盔; crash helmet
+519: n03127925: 板条箱; crate
+520: n03131574: 婴儿床; crib, cot
+521: n03133878: 慢炖锅; Crock Pot
+522: n03134739: 槌球; croquet ball
+523: n03141823: 拐杖; crutch
+524: n03146219: 胸甲; cuirass
+525: n03160309: 水坝; dam, dike, dyke
+526: n03179701: 书桌; desk
+527: n03180011: 台式电脑; desktop computer
+528: n03187595: 拨号电话; dial telephone, dial phone
+529: n03188531: 尿布; diaper, nappy, napkin
+530: n03196217: 数字时钟; digital clock
+531: n03197337: 电子表; digital watch
+532: n03201208: 餐桌; dining table, board
+533: n03207743: 抹布; dishrag, dishcloth
+534: n03207941: 洗碗机; dishwasher, dish washer, dishwashing machine
+535: n03208938: 碟刹; disk brake, disc brake
+536: n03216828: 码头; dock, dockage, docking facility
+537: n03218198: 狗拉雪橇; dogsled, dog sled, dog sleigh
+538: n03220513: 圆顶建筑; dome
+539: n03223299: 门垫; doormat, welcome mat
+540: n03240683: 钻井平台; drilling platform, offshore rig
+541: n03249569: 鼓; drum, membranophone, tympan
+542: n03250847: 鼓槌; drumstick
+543: n03255030: 哑铃; dumbbell
+544: n03259280: 荷兰烤箱; Dutch oven
+545: n03271574: 电风扇; electric fan, blower
+546: n03272010: 电吉他; electric guitar
+547: n03272562: 电力机车; electric locomotive
+548: n03290653: 娱乐中心; entertainment center
+549: n03291819: 信封; envelope
+550: n03297495: 意式咖啡机; espresso maker
+551: n03314780: 散粉; face powder
+552: n03325584: 羽毛围巾; feather boa, boa
+553: n03337140: 文件柜; file, file cabinet, filing cabinet
+554: n03344393: 消防船; fireboat
+555: n03345487: 消防车; fire engine, fire truck
+556: n03347037: 防火屏障; fire screen, fireguard
+557: n03355925: 旗杆; flagpole, flagstaff
+558: n03372029: 长笛; flute, transverse flute
+559: n03376595: 折叠椅; folding chair
+560: n03379051: 橄榄球头盔; football helmet（橄榄球头盔）
+561: n03384352: 叉车; forklift
+562: n03388043: 喷泉; fountain
+563: n03388183: 钢笔; fountain pen
+564: n03388549: 四柱床; four-poster
+565: n03393912: 货运车厢; freight car
+566: n03394916: 圆号; French horn, horn
+567: n03400231: 煎锅; frying pan, frypan, skillet
+568: n03404251: 毛皮大衣; fur coat
+569: n03417042: 垃圾车; garbage truck, dustcart
+570: n03424325: 防毒面具; gasmask, respirator, gas helmet（防毒面具，呼吸器，防毒头盔）
+571: n03425413: 加油泵; gas pump, gasoline pump, petrol pump, island dispenser
+572: n03443371: 高脚杯; goblet
+573: n03444034: 卡丁车; go-kart（卡丁车）
+574: n03445777: 高尔夫球; golf ball
+575: n03445924: 高尔夫球车; golfcart, golf cart
+576: n03447447: 贡多拉; gondola
+577: n03447721: 锣; gong, tam-tam
+578: n03450230: 礼服; gown
+579: n03452741: 三角钢琴; grand piano, grand
+580: n03457902: 温室; greenhouse, nursery, glasshouse
+581: n03459775: 散热格栅; grille, radiator grille
+582: n03461385: 杂货店; grocery store, grocery, food market, market
+583: n03467068: 断头台; guillotine
+584: n03476684: 发夹; hair slide
+585: n03476991: 发胶; hair spray
+586: n03478589: 半履带车; half track
+587: n03481172: 锤子; hammer
+588: n03482405: 洗衣篮; hamper
+589: n03483316: 吹风机; hand blower, blow dryer, blow drier, hair dryer, hair drier
+590: n03485407: 手持计算机; hand-held computer, hand-held microcomputer
+591: n03485794: 手帕; handkerchief, hankie, hanky, hankey
+592: n03492542: 硬盘; hard disc, hard disk, fixed disk
+593: n03494278: 口琴; harmonica, mouth organ, harp, mouth harp
+594: n03495258: 竖琴; harp
+595: n03496892: 收割机; harvester, reaper
+596: n03498962: 短柄斧; hatchet（短柄斧头）
+597: n03527444: 枪套; holster
+598: n03529860: 家庭影院; home theater, home theatre
+599: n03530642: 蜂巢; honeycomb
+600: n03532672: 钩子; hook, claw
+601: n03534580: 裙撑; hoopskirt, crinoline
+602: n03535780: 单杠; horizontal bar, high bar
+603: n03538406: 马车; horse cart, horse-cart
+604: n03544143: 沙漏; hourglass
+605: n03584254: iPod; iPod
+606: n03584829: 熨斗; iron, smoothing iron
+607: n03590841: 南瓜灯; jack-o'-lantern
+608: n03594734: 牛仔裤; jean, blue jean, denim
+609: n03594945: 吉普车; jeep, landrover
+610: n03595614: T恤; jersey, T-shirt, tee shirt
+611: n03598930: 拼图; jigsaw puzzle
+612: n03599486: 人力车; jinrikisha, ricksha, rickshaw
+613: n03602883: 操纵杆; joystick
+614: n03617480: 和服; kimono
+615: n03623198: 护膝; knee pad
+616: n03627232: 绳结; knot
+617: n03630383: 实验服; lab coat, laboratory coat（实验服，白大褂）
+618: n03633091: 长柄勺; ladle
+619: n03637318: 灯罩; lampshade, lamp shade
+620: n03642806: 笔记本电脑; laptop, laptop computer
+621: n03649909: 割草机; lawn mower, mower
+622: n03657121: 镜头盖; lens cap, lens cover（相机镜头盖）
+623: n03658185: 开信刀; letter opener, paper knife, paperknife
+624: n03661043: 图书馆; library
+625: n03662601: 救生艇; lifeboat
+626: n03666591: 打火机; lighter, light, igniter, ignitor
+627: n03670208: 豪华轿车; limousine, limo
+628: n03673027: 远洋邮轮; liner, ocean liner
+629: n03676483: 口红; lipstick, lip rouge
+630: n03680355: 乐福鞋; Loafer
+631: n03690938: 乳液; lotion
+632: n03691459: 扬声器; loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+633: n03692522: 放大镜; loupe, jeweler's loupe
+634: n03697007: 锯木厂; lumbermill, sawmill
+635: n03706229: 指南针; magnetic compass
+636: n03709823: 邮袋; mailbag, postbag
+637: n03710193: 邮箱; mailbox, letter box
+638: n03710637: 泳衣; maillot
+639: n03710721: 泳装; maillot, tank suit
+640: n03717622: 井盖; manhole cover
+641: n03720891: 沙锤; maraca
+642: n03721384: 马林巴琴; marimba, xylophone
+643: n03724870: 面具; mask
+644: n03729826: 火柴; matchstick
+645: n03733131: 五月柱; maypole
+646: n03733281: 迷宫; maze, labyrinth
+647: n03733805: 量杯; measuring cup
+648: n03742115: 医药柜; medicine chest, medicine cabinet
+649: n03743016: 巨石; megalith, megalithic structure
+650: n03759954: 麦克风; microphone, mike
+651: n03761084: 微波炉; microwave, microwave oven
+652: n03763968: 军服; military uniform
+653: n03764736: 奶罐; milk can
+654: n03769881: 小巴客车; minibus
+655: n03770439: 迷你裙; miniskirt, mini
+656: n03770679: 厢式货车; minivan
+657: n03773504: 导弹; missile
+658: n03775071: 连指手套; mitten
+659: n03775546: 搅拌碗; mixing bowl
+660: n03776460: 活动房屋; mobile home, manufactured home
+661: n03777568: 福特T型车; Model T
+662: n03777754: 调制解调器; modem
+663: n03781244: 修道院; monastery
+664: n03782006: 显示器; monitor
+665: n03785016: 助力车; moped
+666: n03786901: 研钵; mortar
+667: n03787032: 学位帽; mortarboard（学位帽）
+668: n03788195: 清真寺; mosque
+669: n03788365: 蚊帐; mosquito net
+670: n03791053: 摩托车; motor scooter, scooter
+671: n03792782: 山地自行车; mountain bike, all-terrain bike, off-roader
+672: n03792972: 登山帐篷; mountain tent
+673: n03793489: 鼠标; mouse, computer mouse
+674: n03794056: 捕鼠器; mousetrap
+675: n03796401: 搬家货车; moving van
+676: n03803284: 嘴套; muzzle
+677: n03804744: 钉子; nail
+678: n03814639: 颈托; neck brace
+679: n03814906: 项链; necklace
+680: n03825788: 奶嘴; nipple
+681: n03832673: 笔记本电脑; notebook, notebook computer
+682: n03837869: 方尖碑; obelisk
+683: n03838899: 双簧管; oboe, hautboy, hautbois
+684: n03840681: 陶笛; ocarina, sweet potato
+685: n03841143: 里程表; odometer, hodometer, mileometer, milometer
+686: n03843555: 机油滤清器; oil filter
+687: n03854065: 管风琴; organ, pipe organ
+688: n03857828: 示波器; oscilloscope, scope, cathode-ray oscilloscope, CRO
+689: n03866082: 衬裙; overskirt
+690: n03868242: 牛车; oxcart
+691: n03868863: 氧气面罩; oxygen mask（氧气面具）
+692: n03871628: 包裹; packet
+693: n03873416: 船桨; paddle, boat paddle
+694: n03874293: 桨轮; paddlewheel, paddle wheel
+695: n03874599: 挂锁; padlock
+696: n03876231: 画笔; paintbrush
+697: n03877472: 睡衣; pajama, pyjama, pj's, jammies
+698: n03877845: 宫殿; palace
+699: n03884397: 排箫; panpipe, pandean pipe, syrinx
+700: n03887697: 纸巾; paper towel
+701: n03888257: 降落伞; parachute, chute
+702: n03888605: 双杠; parallel bars, bars
+703: n03891251: 公园长椅; park bench
+704: n03891332: 停车计时器; parking meter
+705: n03895866: 客车车厢; passenger car, coach, carriage
+706: n03899768: 露台; patio, terrace
+707: n03902125: 付费电话; pay-phone, pay-station
+708: n03903868: 基座; pedestal, plinth, footstall
+709: n03908618: 铅笔盒; pencil box, pencil case
+710: n03908714: 卷笔刀; pencil sharpener
+711: n03916031: 香水; perfume, essence
+712: n03920288: 培养皿; Petri dish
+713: n03924679: 复印机; photocopier
+714: n03929660: 拨片; pick, plectrum, plectron
+715: n03929855: 尖顶头盔; pickelhaube
+716: n03930313: 栅栏; picket fence, paling
+717: n03930630: 皮卡车; pickup, pickup truck
+718: n03933933: 码头; pier
+719: n03935335: 存钱罐; piggy bank, penny bank
+720: n03937543: 药瓶; pill bottle
+721: n03938244: 枕头; pillow
+722: n03942813: 乒乓球; ping-pong ball
+723: n03944341: 风车; pinwheel
+724: n03947888: 海盗船; pirate, pirate ship
+725: n03950228: 水罐; pitcher, ewer
+726: n03954731: 木工刨; plane, carpenter's plane, woodworking plane
+727: n03956157: 天文馆; planetarium
+728: n03958227: 塑料袋; plastic bag
+729: n03961711: 餐具架; plate rack
+730: n03967562: 犁; plow, plough
+731: n03970156: 通马桶泵; plunger, plumber's helper
+732: n03976467: 拍立得相机; Polaroid camera, Polaroid Land camera
+733: n03976657: 杆; pole
+734: n03977966: 警用厢式车; police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+735: n03980874: 披风; poncho
+736: n03982430: 台球桌; pool table, billiard table, snooker table
+737: n03983396: 汽水瓶; pop bottle, soda bottle
+738: n03991062: 花盆; pot, flowerpot
+739: n03992509: 陶轮; potter's wheel
+740: n03995372: 电钻; power drill
+741: n03998194: 祈祷毯; prayer rug, prayer mat
+742: n04004767: 打印机; printer
+743: n04005630: 监狱; prison, prison house
+744: n04008634: 导弹; projectile, missile
+745: n04009552: 投影仪; projector
+746: n04019541: 冰球; puck, hockey puck
+747: n04023962: 沙袋; punching bag, punch bag, punching ball, punchball
+748: n04026417: 钱包; purse
+749: n04033901: 羽毛笔; quill, quill pen
+750: n04033995: 被子; quilt, comforter, comfort, puff
+751: n04037443: 赛车; racer, race car, racing car
+752: n04039381: 球拍; racket, racquet
+753: n04040759: 散热器; radiator
+754: n04041544: 收音机; radio, wireless
+755: n04044716: 射电望远镜; radio telescope, radio reflector
+756: n04049303: 雨水桶; rain barrel
+757: n04065272: 房车; recreational vehicle, RV, R.V.
+758: n04067472: 卷轴; reel
+759: n04069434: 单反相机; reflex camera
+760: n04070727: 冰箱; refrigerator, icebox
+761: n04074963: 遥控器; remote control, remote
+762: n04081281: 餐厅; restaurant, eating house, eating place, eatery
+763: n04086273: 左轮、手枪; revolver, six-gun, six-shooter
+764: n04090263: 步枪; rifle
+765: n04099969: 摇椅; rocking chair, rocker
+766: n04111531: 旋转烤肉架; rotisserie
+767: n04116512: 橡皮擦; rubber eraser, rubber, pencil eraser
+768: n04118538: 橄榄球; rugby ball
+769: n04118776: 尺子; rule, ruler
+770: n04120489: 跑鞋; running shoe
+771: n04125021: 保险箱; safe
+772: n04127249: 安全别针; safety pin
+773: n04131690: 盐瓶; saltshaker, salt shaker
+774: n04133789: 凉鞋; sandal
+775: n04136333: 纱笼; sarong
+776: n04141076: 萨克斯管; sax, saxophone
+777: n04141327: 刀鞘; scabbard
+778: n04141975: 秤; scale, weighing machine
+779: n04146614: 校车; school bus
+780: n04147183: 纵帆船; schooner
+781: n04149813: 记分牌; scoreboard
+782: n04152593: 显示屏; screen, CRT screen
+783: n04153751: 螺丝; screw
+784: n04154565: 螺丝刀; screwdriver
+785: n04162706: 安全带; seat belt, seatbelt
+786: n04179913: 缝纫机; sewing machine
+787: n04192698: 盾牌; shield, buckler
+788: n04200800: 鞋店; shoe shop, shoe-shop, shoe store
+789: n04201297: 推拉门; shoji
+790: n04204238: 购物篮; shopping basket
+791: n04204347: 购物车; shopping cart
+792: n04208210: 铲子、铁锨; shovel
+793: n04209133: 浴帽; shower cap（淋浴帽）
+794: n04209239: 浴帘; shower curtain
+795: n04228054: 滑雪板; ski
+796: n04229816: 滑雪面罩; ski mask（滑雪面罩）
+797: n04235860: 睡袋; sleeping bag
+798: n04238763: 计算尺; slide rule, slipstick
+799: n04239074: 推拉门; sliding door
+800: n04243546: 老虎机; slot, one-armed bandit
+801: n04251144: 呼吸管; snorkel（潜水管）
+802: n04252077: 雪地摩托; snowmobile
+803: n04252225: 扫雪机; snowplow, snowplough
+804: n04254120: 皂液器; soap dispenser
+805: n04254680: 足球; soccer ball
+806: n04254777: 袜子; sock
+807: n04258138: 太阳能聚光器; solar dish, solar collector, solar furnace
+808: n04259630: 宽边帽; sombrero
+809: n04263257: 汤碗; soup bowl
+810: n04264628: 空格键; space bar
+811: n04265275: 取暖器; space heater
+812: n04266014: 航天飞机; space shuttle
+813: n04270147: 锅铲; spatula
+814: n04273569: 快艇; speedboat
+815: n04275548: 蜘蛛网; spider web, spider's web
+816: n04277352: 纺锤; spindle
+817: n04285008: 跑车; sports car, sport car
+818: n04286575: 聚光灯; spotlight, spot
+819: n04296562: 舞台; stage
+820: n04310018: 蒸汽机车; steam locomotive
+821: n04311004: 钢拱桥; steel arch bridge
+822: n04311174: 钢鼓; steel drum
+823: n04317175: 听诊器; stethoscope
+824: n04325704: 披肩; stole（女用披肩，长围巾）
+825: n04326547: 石墙; stone wall
+826: n04328186: 秒表; stopwatch, stop watch
+827: n04330267: 炉灶; stove
+828: n04332243: 滤网; strainer
+829: n04335435: 有轨电车; streetcar, tram, tramcar, trolley, trolley car
+830: n04336792: 担架; stretcher
+831: n04344873: 沙发床; studio couch, day bed
+832: n04346328: 佛塔; stupa, tope
+833: n04347754: 潜艇; submarine, pigboat, sub, U-boat
+834: n04350905: 西装; suit, suit of clothes
+835: n04355338: 日晷; sundial
+836: n04355933: 太阳镜片（sunglass）; sunglass
+837: n04356056: 太阳镜（sunglasses）; sunglasses, dark glasses, shades
+838: n04357314: 防晒霜; sunscreen, sunblock, sun blocker
+839: n04366367: 悬索桥; suspension bridge
+840: n04367480: 拖把; swab, swob, mop
+841: n04370456: 运动衫; sweatshirt
+842: n04371430: 泳裤; swimming trunks, bathing trunks
+843: n04371774: 秋千; swing
+844: n04372370: 开关; switch, electric switch, electrical switch
+845: n04376876: 注射器; syringe
+846: n04380533: 台灯; table lamp
+847: n04389033: 坦克; tank, army tank, armored combat vehicle, armoured combat vehicle
+848: n04392985: 磁带播放机; tape player（磁带播放机）
+849: n04398044: 茶壶; teapot
+850: n04399382: 泰迪熊; teddy, teddy bear
+851: n04404412: 电视; television, television system
+852: n04409515: 网球; tennis ball
+853: n04417672: 茅草屋顶; thatch, thatched roof
+854: n04418357: 剧院幕布; theater curtain, theatre curtain
+855: n04423845: 顶针; thimble
+856: n04428191: 脱粒机; thresher, thrasher, threshing machine
+857: n04429376: 王座; throne
+858: n04435653: 瓦屋顶; tile roof
+859: n04442312: 烤面包机; toaster
+860: n04443257: 烟草店; tobacco shop, tobacconist shop, tobacconist
+861: n04447861: 马桶座圈; toilet seat
+862: n04456115: 手电筒; torch
+863: n04458633: 图腾柱; totem pole
+864: n04461696: 拖车; tow truck, tow car, wrecker
+865: n04462240: 玩具店; toyshop
+866: n04465501: 拖拉机; tractor
+867: n04467665: 半挂卡车; trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+868: n04476259: 托盘; tray
+869: n04479046: 风衣; trench coat
+870: n04482393: 三轮车; tricycle, trike, velocipede
+871: n04483307: 三体船; trimaran
+872: n04485082: 三脚架; tripod
+873: n04486054: 凯旋门; triumphal arch
+874: n04487081: 无轨电车; trolleybus, trolley coach, trackless trolley
+875: n04487394: 长号; trombone
+876: n04493381: 浴缸; tub, vat
+877: n04501370: 旋转栅门; turnstile
+878: n04505470: 打字机键盘; typewriter keyboard
+879: n04507155: 雨伞; umbrella
+880: n04509417: 独轮车; unicycle, monocycle
+881: n04515003: 立式钢琴; upright, upright piano
+882: n04517823: 吸尘器; vacuum, vacuum cleaner
+883: n04522168: 花瓶; vase
+884: n04523525: 拱顶; vault
+885: n04525038: 天鹅绒; velvet
+886: n04525305: 自动售货机; vending machine
+887: n04532106: 法衣; vestment
+888: n04532670: 高架桥; viaduct
+889: n04536866: 小提琴; violin, fiddle
+890: n04540053: 排球; volleyball
+891: n04542943: 华夫饼机; waffle iron
+892: n04548280: 挂钟; wall clock
+893: n04548362: 钱包; wallet, billfold, notecase, pocketbook
+894: n04550184: 衣柜; wardrobe, closet, press
+895: n04552348: 军用飞机; warplane, military plane
+896: n04553703: 洗脸盆; washbasin, handbasin, washbowl, lavabo, wash-hand basin
+897: n04554684: 洗衣机; washer, automatic washer, washing machine
+898: n04557648: 水瓶; water bottle
+899: n04560804: 水壶; water jug
+900: n04562935: 水塔; water tower
+901: n04579145: 威士忌壶; whiskey jug
+902: n04579432: 哨子; whistle
+903: n04584207: 假发; wig（假发）
+904: n04589890: 纱窗; window screen
+905: n04590129: 窗帘; window shade
+906: n04591157: 温莎领带; Windsor tie
+907: n04591713: 酒瓶; wine bottle
+908: n04592741: 机翼; wing
+909: n04596742: 炒锅; wok
+910: n04597913: 木勺; wooden spoon
+911: n04599235: 羊毛; wool, woolen, woollen
+912: n04604644: 蛇形栅栏; worm fence, snake fence, snake-rail fence, Virginia fence
+913: n04606251: 沉船残骸; wreck
+914: n04612504: 小帆船; yawl
+915: n04613696: 蒙古包; yurt
+916: n06359193: 网站; web site, website, internet site, site
+917: n06596364: 漫画书; comic book
+918: n06785654: 填字游戏; crossword puzzle, crossword
+919: n06794110: 路标; street sign
+920: n06874185: 红绿灯; traffic light, traffic signal, stoplight
+921: n07248320: 书皮; book jacket, dust cover, dust jacket, dust wrapper
+922: n07565083: 菜单; menu
+923: n07579787: 盘子; plate
+924: n07583066: 鳄梨酱; guacamole
+925: n07584110: 清汤; consomme
+926: n07590611: 火锅; hot pot, hotpot
+927: n07613480: 水果蛋糕; trifle
+928: n07614500: 冰淇淋; ice cream, icecream
+929: n07615774: 冰棒; ice lolly, lolly, lollipop, popsicle
+930: n07684084: 法棍; French loaf
+931: n07693725: 贝果; bagel, beigel
+932: n07695742: 椒盐卷饼; pretzel
+933: n07697313: 芝士汉堡; cheeseburger
+934: n07697537: 热狗; hotdog, hot dog, red hot
+935: n07711569: 土豆泥; mashed potato
+936: n07714571: 卷心菜; head cabbage
+937: n07714990: 西兰花; broccoli
+938: n07715103: 花椰菜; cauliflower
+939: n07716358: 西葫芦; zucchini, courgette
+940: n07716906: 意大利面瓜; spaghetti squash
+941: n07717410: 橡子南瓜; acorn squash
+942: n07717556: 冬南瓜; butternut squash
+943: n07718472: 黄瓜; cucumber, cuke
+944: n07718747: 洋蓟; artichoke, globe artichoke
+945: n07720875: 甜椒; bell pepper
+946: n07730033: 菜蓟; cardoon
+947: n07734744: 蘑菇; mushroom
+948: n07742313: 青苹果; Granny Smith
+949: n07745940: 草莓; strawberry
+950: n07747607: 橙子; orange
+951: n07749582: 柠檬; lemon
+952: n07753113: 无花果; fig
+953: n07753275: 菠萝; pineapple, ananas
+954: n07753592: 香蕉; banana
+955: n07754684: 菠萝蜜; jackfruit, jak, jack
+956: n07760859: 番荔枝; custard apple
+957: n07768694: 石榴; pomegranate
+958: n07802026: 干草; hay
+959: n07831146: 培根蛋面; carbonara
+960: n07836838: 巧克力酱; chocolate sauce, chocolate syrup
+961: n07860988: 面团; dough
+962: n07871810: 肉糕; meat loaf, meatloaf
+963: n07873807: 披萨; pizza, pizza pie
+964: n07875152: 肉馅饼; potpie
+965: n07880968: 墨西哥卷饼; burrito
+966: n07892512: 红葡萄酒; red wine
+967: n07920052: 浓缩咖啡; espresso
+968: n07930864: 杯子; cup
+969: n07932039: 蛋奶酒; eggnog
+970: n09193705: 高山; alp
+971: n09229709: 气泡; bubble
+972: n09246464: 悬崖; cliff, drop, drop-off
+973: n09256479: 珊瑚礁; coral reef
+974: n09288635: 间歇泉; geyser
+975: n09332890: 湖畔; lakeside, lakeshore
+976: n09399592: 海角; promontory, headland, head, foreland
+977: n09421951: 沙洲; sandbar, sand bar
+978: n09428293: 海岸; seashore, coast, seacoast, sea-coast
+979: n09468604: 山谷; valley, vale
+980: n09472597: 火山; volcano
+981: n09835506: 棒球运动员; ballplayer, baseball player（棒球运动员）
+982: n10148035: 新郎; groom, bridegroom
+983: n10565667: 潜水员; scuba diver
+984: n11879895: 油菜籽; rapeseed
+985: n11939491: 雏菊; daisy
+986: n12057211: 黄杓兰; yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum
+987: n12144580: 玉米; corn
+988: n12267677: 橡子; acorn
+989: n12620546: 玫瑰果; hip, rose hip, rosehip
+990: n12768682: 七叶树果实; buckeye, horse chestnut, conker
+991: n12985857: 珊瑚菌; coral fungus
+992: n12998815: 伞菌; agaric
+993: n13037406: 鹿花菌; gyromitra
+994: n13040303: 鬼笔菌; stinkhorn, carrion fungus
+995: n13044778: 地星菌; earthstar
+996: n13052670: 灰树花菌; hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa
+997: n13054560: 牛肝菌; bolete
+998: n13133613: 玉米; ear, spike, capitulum
+999: n15075141: 卫生纸; toilet tissue, toilet paper, bathroom tissue

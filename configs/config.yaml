@@ -1,0 +1,60 @@
+gpu: 0
+input: "" # 单张图片的路径或者多个图片的目录
+output: ""
+mask: "" # 单个掩码路径或多个掩码的目录， 多个掩码用于局部多目标的引导生成，进行同类多实例目标生成
+mask_type: "" # 单个掩码修复，预设了"expand", "half", "square"", "line", "sr2", "random", "text", "text_cat", "full"
+labels: "" # 一个或多个 class_lable
+shape: 256
+use_seg_inp: false
+use_classifier: false
+use_pred_y: false
+pred_y_top_k: 3
+
+# All sub-configuration files must update the following parameters,
+# which should also be registered in the utils/config.py file's stage_config_updated_params() function:
+debug: false
+mode: inpaint # super_resolution, inpaint
+seed: 42
+n_samples: 1
+use_local_guid: false
+
+ddim:
+  ddim_sigma: 0.0
+  schedule_params:
+    num_inference_steps: 250
+    schedule_type: linear # linear, quad, respace
+    infer_step_repace: "50,50,25,25,5" # 个数代表划分的段数，数值代表每段多少步
+    jump_length: 1
+    jump_n_sample: 1
+    jump_start_step: 230
+    jump_end_step: 0
+
+optimize_xt:
+  optimize_xt: true
+  num_iteration_inp: 2 # G步梯度下降，即优化xt的次数
+  num_iteration_guid: 2
+  coef_guid: 1.0
+  coef_guid_decay: 1.0
+  guid_stop_step: 50
+  inp_start_step: 249
+  use_comb: true
+  comb_start_step: 249
+  comb_stop_step: 100
+#  coef_align: 1.0
+#  coef_align_decay: 1.0
+
+#子配置文件分别更新的参数
+#inpainting algorithm: [repaint, copaint, guidpaint]
+
+use_stage1: true
+stage1: # stochastic
+  config_path: ./configs/imagenet.yaml
+  algorithm: ""
+  use_timetravel: false
+  use_guidance: false
+
+use_skip_x0: true # 用于获得150-249时间步上xt跳采样后的x0
+
+
+
+

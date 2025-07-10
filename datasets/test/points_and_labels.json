@@ -1,0 +1,1937 @@
+{
+    "ILSVRC2012_test_00000002": {
+        "input_points": [
+            [
+                209,
+                219
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 18
+    },
+    "ILSVRC2012_test_00000003": {
+        "input_points": [
+            [
+                245,
+                243
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 175
+    },
+    "ILSVRC2012_test_00000004": {
+        "input_points": [
+            [
+                233,
+                233
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 185
+    },
+    "ILSVRC2012_test_00000005": {
+        "input_points": [
+            [
+                235,
+                185
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 851
+    },
+    "ILSVRC2012_test_00000006": {
+        "input_points": [
+            [
+                228,
+                117
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 329
+    },
+    "ILSVRC2012_test_00000008": {
+        "input_points": [
+            [
+                182,
+                168
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 870
+    },
+    "ILSVRC2012_test_00000011": {
+        "input_points": [
+            [
+                292,
+                182
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 183
+    },
+    "ILSVRC2012_test_00000012": {
+        "input_points": [
+            [
+                274,
+                227
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 992
+    },
+    "ILSVRC2012_test_00000014": {
+        "input_points": [
+            [
+                139,
+                56
+            ],
+            [
+                160,
+                168
+            ],
+            [
+                173,
+                204
+            ],
+            [
+                294,
+                117
+            ],
+            [
+                293,
+                143
+            ],
+            [
+                255,
+                7
+            ],
+            [
+                333,
+                24
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 526
+    },
+    "ILSVRC2012_test_00000017": {
+        "input_points": [
+            [
+                203,
+                162
+            ],
+            [
+                207,
+                408
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 846
+    },
+    "ILSVRC2012_test_00000019": {
+        "input_points": [
+            [
+                231,
+                179
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 19
+    },
+    "ILSVRC2012_test_00000020": {
+        "input_points": [
+            [
+                229,
+                104
+            ],
+            [
+                138,
+                166
+            ],
+            [
+                192,
+                192
+            ],
+            [
+                308,
+                138
+            ],
+            [
+                229,
+                209
+            ],
+            [
+                219,
+                389
+            ],
+            [
+                151,
+                343
+            ],
+            [
+                188,
+                308
+            ],
+            [
+                314,
+                349
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 134
+    },
+    "ILSVRC2012_test_00000021": {
+        "input_points": [
+            [
+                210,
+                149
+            ],
+            [
+                298,
+                112
+            ],
+            [
+                301,
+                148
+            ],
+            [
+                335,
+                246
+            ],
+            [
+                177,
+                244
+            ],
+            [
+                122,
+                203
+            ],
+            [
+                142,
+                168
+            ],
+            [
+                350,
+                172
+            ],
+            [
+                166,
+                119
+            ],
+            [
+                246,
+                306
+            ],
+            [
+                218,
+                261
+            ],
+            [
+                150,
+                280
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 664
+    },
+    "ILSVRC2012_test_00000022": {
+        "input_points": [
+            [
+                213,
+                161
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 167
+    },
+    "ILSVRC2012_test_00000023": {
+        "input_points": [
+            [
+                328,
+                161
+            ],
+            [
+                373,
+                139
+            ],
+            [
+                391,
+                170
+            ],
+            [
+                379,
+                217
+            ],
+            [
+                419,
+                236
+            ],
+            [
+                405,
+                259
+            ],
+            [
+                368,
+                270
+            ],
+            [
+                323,
+                279
+            ],
+            [
+                266,
+                283
+            ],
+            [
+                281,
+                244
+            ],
+            [
+                291,
+                212
+            ],
+            [
+                316,
+                203
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 444
+    },
+    "ILSVRC2012_test_00000024": {
+        "input_points": [
+            [
+                114,
+                200
+            ],
+            [
+                261,
+                117
+            ],
+            [
+                340,
+                237
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 436
+    },
+    "ILSVRC2012_test_00000025": {
+        "input_points": [
+            [
+                250,
+                180
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 322
+    },
+    "ILSVRC2012_test_00000026": {
+        "input_points": [
+            [
+                93,
+                158
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 834
+    },
+    "ILSVRC2012_test_00000027": {
+        "input_points": [
+            [
+                278,
+                230
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 160
+    },
+    "ILSVRC2012_test_00000028": {
+        "input_points": [
+            [
+                235,
+                163
+            ],
+            [
+                242,
+                251
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 919
+    },
+    "ILSVRC2012_test_00000030": {
+        "input_points": [
+            [
+                222,
+                158
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 97
+    },
+    "ILSVRC2012_test_00000031": {
+        "input_points": [
+            [
+                319,
+                18
+            ],
+            [
+                337,
+                330
+            ],
+            [
+                277,
+                823
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 465
+    },
+    "ILSVRC2012_test_00000032": {
+        "input_points": [
+            [
+                258,
+                91
+            ],
+            [
+                112,
+                129
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 334
+    },
+    "ILSVRC2012_test_00000033": {
+        "input_points": [
+            [
+                61,
+                180
+            ],
+            [
+                235,
+                272
+            ],
+            [
+                438,
+                221
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 983
+    },
+    "ILSVRC2012_test_00000034": {
+        "input_points": [
+            [
+                165,
+                89
+            ],
+            [
+                127,
+                322
+            ],
+            [
+                214,
+                296
+            ],
+            [
+                223,
+                166
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 505
+    },
+    "ILSVRC2012_test_00000035": {
+        "input_points": [
+            [
+                635,
+                1394
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 570
+    },
+    "ILSVRC2012_test_00000036": {
+        "input_points": [
+            [
+                259,
+                149
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 159
+    },
+    "ILSVRC2012_test_00000037": {
+        "input_points": [
+            [
+                260,
+                195
+            ],
+            [
+                382,
+                264
+            ],
+            [
+                463,
+                119
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 61
+    },
+    "ILSVRC2012_test_00000039": {
+        "input_points": [
+            [
+                325,
+                239
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 231
+    },
+    "ILSVRC2012_test_00000040": {
+        "input_points": [
+            [
+                225,
+                201
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 139
+    },
+    "ILSVRC2012_test_00000042": {
+        "input_points": [
+            [
+                58,
+                17
+            ],
+            [
+                123,
+                43
+            ],
+            [
+                158,
+                105
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 763
+    },
+    "ILSVRC2012_test_00000044": {
+        "input_points": [
+            [
+                259,
+                257
+            ],
+            [
+                260,
+                311
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 662
+    },
+    "ILSVRC2012_test_00000045": {
+        "input_points": [
+            [
+                200,
+                284
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 756
+    },
+    "ILSVRC2012_test_00000046": {
+        "input_points": [
+            [
+                191,
+                90
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 386
+    },
+    "ILSVRC2012_test_00000047": {
+        "input_points": [
+            [
+                238,
+                254
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 187
+    },
+    "ILSVRC2012_test_00000048": {
+        "input_points": [
+            [
+                128,
+                414
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 897
+    },
+    "ILSVRC2012_test_00000051": {
+        "input_points": [
+            [
+                64,
+                261
+            ],
+            [
+                66,
+                127
+            ],
+            [
+                201,
+                92
+            ],
+            [
+                232,
+                186
+            ],
+            [
+                380,
+                227
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 52
+    },
+    "ILSVRC2012_test_00000054": {
+        "input_points": [
+            [
+                63,
+                409
+            ],
+            [
+                36,
+                451
+            ],
+            [
+                214,
+                359
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 755
+    },
+    "ILSVRC2012_test_00000056": {
+        "input_points": [
+            [
+                186,
+                157
+            ],
+            [
+                239,
+                164
+            ],
+            [
+                291,
+                165
+            ],
+            [
+                332,
+                201
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 931
+    },
+    "ILSVRC2012_test_00000057": {
+        "input_points": [
+            [
+                162,
+                208
+            ],
+            [
+                305,
+                221
+            ],
+            [
+                371,
+                222
+            ],
+            [
+                298,
+                186
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 360
+    },
+    "ILSVRC2012_test_00000058": {
+        "input_points": [
+            [
+                261,
+                99
+            ],
+            [
+                215,
+                162
+            ],
+            [
+                266,
+                235
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 933
+    },
+    "ILSVRC2012_test_00000059": {
+        "input_points": [
+            [
+                47,
+                158
+            ],
+            [
+                269,
+                151
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 957
+    },
+    "ILSVRC2012_test_00000060": {
+        "input_points": [
+            [
+                125,
+                96
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 756
+    },
+    "ILSVRC2012_test_00000061": {
+        "input_points": [
+            [
+                149,
+                241
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 14
+    },
+    "ILSVRC2012_test_00000062": {
+        "input_points": [
+            [
+                223,
+                257
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 203
+    },
+    "ILSVRC2012_test_00000063": {
+        "input_points": [
+            [
+                320,
+                204
+            ],
+            [
+                177,
+                225
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 643
+    },
+    "ILSVRC2012_test_00000064": {
+        "input_points": [
+            [
+                250,
+                246
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 96
+    },
+    "ILSVRC2012_test_00000065": {
+        "input_points": [
+            [
+                144,
+                170
+            ],
+            [
+                162,
+                267
+            ],
+            [
+                236,
+                138
+            ],
+            [
+                250,
+                351
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 513
+    },
+    "ILSVRC2012_test_00000066": {
+        "input_points": [
+            [
+                300,
+                111
+            ],
+            [
+                188,
+                141
+            ],
+            [
+                357,
+                74
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 52
+    },
+    "ILSVRC2012_test_00000068": {
+        "input_points": [
+            [
+                81,
+                309
+            ],
+            [
+                153,
+                415
+            ],
+            [
+                166,
+                446
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 899
+    },
+    "ILSVRC2012_test_00000070": {
+        "input_points": [
+            [
+                187,
+                124
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 404
+    },
+    "ILSVRC2012_test_00000072": {
+        "input_points": [
+            [
+                185,
+                408
+            ],
+            [
+                148,
+                290
+            ],
+            [
+                191,
+                143
+            ],
+            [
+                233,
+                98
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 231
+    },
+    "ILSVRC2012_test_00000073": {
+        "input_points": [
+            [
+                231,
+                236
+            ],
+            [
+                390,
+                309
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 594
+    },
+    "ILSVRC2012_test_00000074": {
+        "input_points": [
+            [
+                235,
+                233
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 935
+    },
+    "ILSVRC2012_test_00000075": {
+        "input_points": [
+            [
+                333,
+                123
+            ],
+            [
+                307,
+                313
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 132
+    },
+    "ILSVRC2012_test_00000076": {
+        "input_points": [
+            [
+                354,
+                190
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 717
+    },
+    "ILSVRC2012_test_00000077": {
+        "input_points": [
+            [
+                194,
+                80
+            ],
+            [
+                97,
+                86
+            ],
+            [
+                101,
+                97
+            ],
+            [
+                79,
+                112
+            ],
+            [
+                35,
+                144
+            ],
+            [
+                89,
+                137
+            ],
+            [
+                119,
+                134
+            ],
+            [
+                146,
+                149
+            ],
+            [
+                195,
+                165
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 595
+    },
+    "ILSVRC2012_test_00000078": {
+        "input_points": [
+            [
+                239,
+                293
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 928
+    },
+    "ILSVRC2012_test_00000082": {
+        "input_points": [
+            [
+                271,
+                252
+            ],
+            [
+                215,
+                243
+            ]
+        ],
+        "input_labels": [
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 982
+    },
+    "ILSVRC2012_test_00000083": {
+        "input_points": [
+            [
+                227,
+                186
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 140
+    },
+    "ILSVRC2012_test_00000084": {
+        "input_points": [
+            [
+                142,
+                95
+            ],
+            [
+                303,
+                87
+            ],
+            [
+                197,
+                157
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 533
+    },
+    "ILSVRC2012_test_00000085": {
+        "input_points": [
+            [
+                261,
+                200
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 176
+    },
+    "ILSVRC2012_test_00000086": {
+        "input_points": [
+            [
+                118,
+                129
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 352
+    },
+    "ILSVRC2012_test_00000087": {
+        "input_points": [
+            [
+                97,
+                198
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 175
+    },
+    "ILSVRC2012_test_00000089": {
+        "input_points": [
+            [
+                457,
+                315
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 511
+    },
+    "ILSVRC2012_test_00000092": {
+        "input_points": [
+            [
+                215,
+                99
+            ],
+            [
+                151,
+                109
+            ],
+            [
+                157,
+                175
+            ],
+            [
+                141,
+                231
+            ],
+            [
+                333,
+                200
+            ],
+            [
+                335,
+                142
+            ],
+            [
+                396,
+                139
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 999
+    },
+    "ILSVRC2012_test_00000093": {
+        "input_points": [
+            [
+                242,
+                203
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 83
+    },
+    "ILSVRC2012_test_00000094": {
+        "input_points": [
+            [
+                205,
+                156
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 375
+    },
+    "ILSVRC2012_test_00000095": {
+        "input_points": [
+            [
+                190,
+                277
+            ],
+            [
+                183,
+                390
+            ],
+            [
+                29,
+                351
+            ],
+            [
+                409,
+                291
+            ],
+            [
+                261,
+                47
+            ],
+            [
+                66,
+                95
+            ],
+            [
+                110,
+                109
+            ],
+            [
+                410,
+                184
+            ],
+            [
+                72,
+                288
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 927
+    },
+    "ILSVRC2012_test_00000096": {
+        "input_points": [
+            [
+                347,
+                210
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 824
+    },
+    "ILSVRC2012_test_00000097": {
+        "input_points": [
+            [
+                299,
+                192
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 955
+    },
+    "ILSVRC2012_test_00000098": {
+        "input_points": [
+            [
+                256,
+                316
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 711
+    },
+    "ILSVRC2012_test_00000099": {
+        "input_points": [
+            [
+                257,
+                179
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 609
+    },
+    "ILSVRC2012_test_00000100": {
+        "input_points": [
+            [
+                149,
+                208
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 479
+    },
+    "ILSVRC2012_test_00000101": {
+        "input_points": [
+            [
+                230,
+                281
+            ],
+            [
+                262,
+                311
+            ],
+            [
+                233,
+                184
+            ],
+            [
+                234,
+                120
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 720
+    },
+    "ILSVRC2012_test_00000104": {
+        "input_points": [
+            [
+                187,
+                246
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 42
+    },
+    "ILSVRC2012_test_00000105": {
+        "input_points": [
+            [
+                207,
+                257
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 16
+    },
+    "ILSVRC2012_test_00000107": {
+        "input_points": [
+            [
+                271,
+                215
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 187
+    },
+    "ILSVRC2012_test_00000108": {
+        "input_points": [
+            [
+                352,
+                170
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 61
+    },
+    "ILSVRC2012_test_00000119": {
+        "input_points": [
+            [
+                304,
+                225
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "0.png",
+        "class_label": 749
+    },
+    "ILSVRC2012_test_00000120": {
+        "input_points": [
+            [
+                364,
+                86
+            ],
+            [
+                364,
+                155
+            ],
+            [
+                359,
+                309
+            ],
+            [
+                70,
+                261
+            ],
+            [
+                759,
+                255
+            ],
+            [
+                747,
+                128
+            ],
+            [
+                91,
+                128
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 398
+    },
+    "ILSVRC2012_test_00000121": {
+        "input_points": [
+            [
+                229,
+                258
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 104
+    },
+    "ILSVRC2012_test_00000123": {
+        "input_points": [
+            [
+                72,
+                209
+            ],
+            [
+                210,
+                240
+            ],
+            [
+                180,
+                212
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 877
+    },
+    "ILSVRC2012_test_00000124": {
+        "input_points": [
+            [
+                281,
+                248
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 114
+    },
+    "ILSVRC2012_test_00000125": {
+        "input_points": [
+            [
+                104,
+                81
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 276
+    },
+    "ILSVRC2012_test_00000137": {
+        "input_points": [
+            [
+                159,
+                178
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 21
+    },
+    "ILSVRC2012_test_00000141": {
+        "input_points": [
+            [
+                245,
+                363
+            ],
+            [
+                187,
+                240
+            ],
+            [
+                90,
+                231
+            ],
+            [
+                140,
+                117
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 291
+    },
+    "ILSVRC2012_test_00000142": {
+        "input_points": [
+            [
+                269,
+                143
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 35
+    },
+    "ILSVRC2012_test_00000143": {
+        "input_points": [
+            [
+                173,
+                257
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 311
+    },
+    "ILSVRC2012_test_00000144": {
+        "input_points": [
+            [
+                202,
+                217
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 281
+    },
+    "ILSVRC2012_test_00000145": {
+        "input_points": [
+            [
+                306,
+                303
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 340
+    },
+    "ILSVRC2012_test_00000151": {
+        "input_points": [
+            [
+                194,
+                247
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "1.png",
+        "class_label": 349
+    },
+    "ILSVRC2012_test_00000152": {
+        "input_points": [
+            [
+                153,
+                317
+            ],
+            [
+                200,
+                261
+            ],
+            [
+                246,
+                301
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 439
+    },
+    "ILSVRC2012_test_00000153": {
+        "input_points": [
+            [
+                215,
+                202
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 22
+    },
+    "ILSVRC2012_test_00000154": {
+        "input_points": [
+            [
+                384,
+                285
+            ],
+            [
+                316,
+                272
+            ],
+            [
+                283,
+                232
+            ],
+            [
+                170,
+                241
+            ],
+            [
+                143,
+                228
+            ],
+            [
+                263,
+                140
+            ]
+        ],
+        "input_labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 866
+    },
+    "ILSVRC2012_test_00000157": {
+        "input_points": [
+            [
+                415,
+                168
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 49
+    },
+    "ILSVRC2012_test_00000165": {
+        "input_points": [
+            [
+                324,
+                373
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 63
+    },
+    "ILSVRC2012_test_00000166": {
+        "input_points": [
+            [
+                271,
+                205
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 554
+    },
+    "ILSVRC2012_test_00000169": {
+        "input_points": [
+            [
+                334,
+                220
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 937
+    },
+    "ILSVRC2012_test_00000171": {
+        "input_points": [
+            [
+                226,
+                192
+            ]
+        ],
+        "input_labels": [
+            1
+        ],
+        "selected_mask": "2.png",
+        "class_label": 829
+    }
+}

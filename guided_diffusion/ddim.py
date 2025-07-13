@@ -1073,7 +1073,6 @@ class G_DDIMSampler(O_DDIMSampler):
                         model_kwargs=model_kwargs,
                         pred_xstart=None,
                         lr_xt=self.lr_xt,
-                        lr_delta=self.lr_delta,
                         coef_xt_reg=self.coef_xt_reg,
                         coef_guid=self.coef_guid,
                         cond_fn=cond_fn,
@@ -1139,13 +1138,6 @@ class G_DDIMSampler(O_DDIMSampler):
                             sample_dir, "middles", f"x_{cur_t[0].item()}.png"
                         ),
                     )
-
-                    # save_grid(
-                    #     normalize_image(output["x_prev"]), # 未优化的 x_next, 从x_t DDIM采样得到的
-                    #     os.path.join(
-                    #         sample_dir, "middles", f"mid-next-{prev_t[0].item()}.png"
-                    #     )
-                    # )
 
                     save_grid(
                         normalize_image(output["pred_x0"]),  # 根据当前步优化后的x_t一步预测的x0

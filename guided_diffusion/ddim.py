@@ -263,6 +263,7 @@ class O_DDIMSampler(DDIMSampler):
         self.mode = conf.get("mode", "inpaint")
         self.scale = conf.get("scale", 0)
         self.optimize_xt = conf.get("optimize_xt.optimize_xt", True)
+        self.use_skip_x0 = conf.get("use_skip_x0", False)
 
     def p_sample(
         self,
@@ -415,7 +416,7 @@ class O_DDIMSampler(DDIMSampler):
 
         if self.use_smart_lr_xt_decay:
             lr_xt /= get_smart_lr_decay_rate(t, self.mid_interval_num)
-        logging_info(f"timestep: {t[0].item()} lr_xt {lr_xt:.8f}")
+        logging_info(f"lr_xt_smart_decay: {lr_xt:.8f}")
 
         # optimize
         with torch.enable_grad():
@@ -568,29 +569,6 @@ class O_DDIMSampler(DDIMSampler):
                 x_t = output["x_prev"]
                 loss = output["loss"]
 
-                # alpha_t = _extract_into_tensor(self.alphas_cumprod, cur_t, shape)
-                # x_t = torch.sqrt(alpha_t) * model_kwargs["gt"] * model_kwargs["masks"] + torch.sqrt(1.0 - alpha_t) * torch.randn(shape, device=device)
-                # from utils import normalize_image, save_grid
-                # save_grid(
-                #     normalize_image(x_t),
-                #     os.path.join(sample_dir, "middles", f"x_{cur_t[0].item()}.png"),  # 出错原因，输入的sample_dir为空值
-                # )
-
-                # lr decay
-                # if self.lr_xt_decay != 1.0:
-                #     logging_info(
-                #         "Learning rate of xt decay: %.5lf -> %.5lf."
-                #         % (lr_xt, lr_xt * self.lr_xt_decay)
-                #     )
-                # lr_xt *= self.lr_xt_decay
-                # if self.coef_xt_reg_decay != 1.0:
-                #     logging_info(
-                #         "Coefficient of regularization decay: %.5lf -> %.5lf."
-                #         % (coef_xt_reg, coef_xt_reg * self.coef_xt_reg_decay)
-                #     )
-                # coef_xt_reg *= self.coef_xt_reg_decay
-
-
                 if conf["debug"]:
                     from utils import normalize_image, save_grid
 
@@ -599,13 +577,13 @@ class O_DDIMSampler(DDIMSampler):
                     save_grid(
                         normalize_image(output["x"]),  # 保存当前步优化后的 x_t
                         os.path.join(
-                            sample_dir, "middles", f"mid-{cur_t[0].item()}.png"
+                            sample_dir, "middles", f"x_{cur_t[0].item()}.png"
                         ),
                     )
                     save_grid(
                         normalize_image(output["pred_x0"]),  # 根据当前步优化后x_t预测的x0
                         os.path.join(
-                            sample_dir, "middles", f"pred-{cur_t[0].item()}.png"
+                            sample_dir, "middles", f"pred_x0-{cur_t[0].item()}.png"
                         ),
                     )
 
@@ -637,8 +615,8 @@ class O_DDIMSampler(DDIMSampler):
 
                 # undo lr decay
                 logging_info(f"Undo step: {cur_t}")
-                lr_xt /= self.lr_xt_decay
-                coef_xt_reg /= self.coef_xt_reg_decay
+                # lr_xt /= self.lr_xt_decay
+                # coef_xt_reg /= self.coef_xt_reg_decay
 
         x_t = x_t.clamp(-1.0, 1.0)  # normalize
         return {"sample": x_t, "loss": loss}
@@ -665,6 +643,7 @@ class O_DDIMSampler(DDIMSampler):
             cond_fn=cond_fn,
         )["x"]
 
+
 class G_DDIMSampler(O_DDIMSampler):
     def __init__(self, use_timesteps, conf=None, **kwargs):
         super().__init__(
@@ -685,6 +664,7 @@ class G_DDIMSampler(O_DDIMSampler):
         self.comb_start_step = conf.get("optimize_xt.comb_start_step", 249)
         self.comb_stop_step = conf.get("optimize_xt.comb_stop_step", 100)
         self.inp_start_step = conf.get("optimize_xt.inp_start_step", 180)
+
 
     def p_sample(
             self,
@@ -1137,6 +1117,17 @@ class G_DDIMSampler(O_DDIMSampler):
                 x_t = output["x_prev"]
                 loss = output["loss"]
 
+                if cur_t[0].item() >= 120 and self.use_skip_x0:
+                    skip_x0 = self.multi_step_skip_x0(
+                        model_fn,
+                        x=output["x"],
+                        t=cur_t,
+                        model_kwargs=model_kwargs,
+                        cond_fn=cond_fn,
+                    )
+                else:
+                    skip_x0 = None
+
                 if conf["debug"]:
                     from utils import normalize_image, save_grid
 
@@ -1145,9 +1136,10 @@ class G_DDIMSampler(O_DDIMSampler):
                     save_grid(
                         normalize_image(output["x"]),  # 保存当前步优化后的 x_t
                         os.path.join(
-                            sample_dir, "middles", f"mid-{cur_t[0].item()}.png"
+                            sample_dir, "middles", f"x_{cur_t[0].item()}.png"
                         ),
                     )
+
                     # save_grid(
                     #     normalize_image(output["x_prev"]), # 未优化的 x_next, 从x_t DDIM采样得到的
                     #     os.path.join(
@@ -1158,15 +1150,23 @@ class G_DDIMSampler(O_DDIMSampler):
                     save_grid(
                         normalize_image(output["pred_x0"]),  # 根据当前步优化后的x_t一步预测的x0
                         os.path.join(
-                            sample_dir, "middles", f"{cur_t[0].item()}-pred.png"
+                            sample_dir, "middles", f"pred_x0-{cur_t[0].item()}.png"
                         ),
                     )
+
+                    if skip_x0 is not None:
+                        save_grid(
+                            normalize_image(skip_x0),
+                            os.path.join(
+                                sample_dir, "middles",f"skip_x0-{cur_t[0].item()}.png",
+                            ),
+                        )
 
                     if output["comb_x0"] is not None:
                         save_grid(
                             normalize_image(output["comb_x0"]),
                             os.path.join(
-                                sample_dir, "middles", f"comb-{cur_t[0].item()}.png"
+                                sample_dir, "middles", f"comb_x0-{cur_t[0].item()}.png"
                             )
                         )
 
@@ -1223,7 +1223,7 @@ class G_DDIMSampler(O_DDIMSampler):
             cond_fn=cond_fn,
         )["x"]
 
-    def multi_step_pred_x0(
+    def multi_step_skip_x0(
         self,
         model_fn,
         x,
@@ -1265,7 +1265,7 @@ class G_DDIMSampler(O_DDIMSampler):
         elif t[0].item() > 100:
             skip_steps = [t[0].item(), 100, 50, 0]
         skip_pairs = list(zip(skip_steps[:-1], skip_steps[1:]))
-        for cur_t, prev_t in skip_pairs:
+        for cur_t, prev_t in tqdm(skip_pairs):
             lr_xt = self.lr_xt * self.lr_xt_decay ** (self.num_inference_steps - 1 - cur_t)
             coef_xt_reg = self.coef_xt_reg * self.coef_xt_reg_decay ** (self.num_inference_steps - 1 - cur_t)
             coef_guid = self.coef_guid * self.coef_guid_decay ** (self.num_inference_steps - 1 - cur_t)
@@ -1280,7 +1280,7 @@ class G_DDIMSampler(O_DDIMSampler):
                 next_x = get_next_x(x, cur_t, prev_t, e_t, pred_x0)
                 x = next_x # 得到下一步的初始x
                 continue
-            output = self.p_sample(
+            output = super().p_sample(
                 model_fn,
                 x=x,
                 t=cur_t,
@@ -1289,7 +1289,6 @@ class G_DDIMSampler(O_DDIMSampler):
                 pred_xstart=None,
                 lr_xt=lr_xt,
                 coef_xt_reg=coef_xt_reg,
-                coef_guid=coef_guid,
                 cond_fn=cond_fn,
             )
             x = output["x_prev"]

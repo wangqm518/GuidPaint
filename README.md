@@ -79,7 +79,7 @@ Guidance scale range:
 
 Here is an example of using GuidPaint with skip sampling for local guidance. 
 ```shell
-python guidpaint.py --config_file configs/config.yaml --input datasets/test --output result --mask_type square --labels 130 --debug --stage1.algorithm guidpaint --stage1.use_guidance --use_local_guid --ddim.schedule_params.schedule_type respace --ddim.schedule_params.infer_step_repace 1,1,1,1,1 --optimize_xt.comb_stop_step 130
+python guidpaint.py --config_file configs/config.yaml --input datasets/test --output result --mask_type half --labels 130 --debug  --stage1.algorithm guidpaint --stage1.use_guidance --use_local_guid --optimize_xt.comb_stop_step 100 --ddim.schedule_params.schedule_type respace --ddim.schedule_params.infer_step_repace 1,1,1,1,1
 ```
 
 ### Experiments Reappearance

@@ -112,7 +112,7 @@ def main():
     status = []
 
     config_stage1.update(config.subconfig_updated_params) # 更新子配置文件的公共参数
-    logging_info(f"subconf unpdate:{config.subconfig_updated_params}")
+    logging_info(f"subconf_unpdate:{config.subconfig_updated_params}")
 
     # 更新子配置文件的特别参数
     if config["stage1.algorithm"] != "":
@@ -123,7 +123,7 @@ def main():
     if config_stage1.algorithm in ["ddim", "copaint", "guidpaint"]:
         # num_inference_steps = config.get("ddim.schedule_params.num_inference_steps", 250)
         if config_stage1["ddim.schedule_params.schedule_type"] == "respace":
-            status.append("respace"+"("+config_stage1["ddim.schedule_params.infer_step_repace"]+")")
+            status.append("("+config_stage1["ddim.schedule_params.infer_step_repace"]+")")
 
         if config["stage1.use_timetravel"]:
             config_stage1.update({"ddim.schedule_params.use_timetravel":True})
@@ -447,33 +447,6 @@ def main():
                 % (float(last_duration), image_name)
             )
 
-            if config_stage1.debug and config.use_skip_x0:  # 多步跳采样到x0
-                mid_dir = os.path.join(outpath, "middles")
-                mid_datas = []
-                for f in os.listdir(mid_dir):
-                    if f.startswith("mid") and not "next" in f:
-                        mid_path = os.path.join(mid_dir, f)
-                        t = f.split("-")[1].split(".")[0]
-                        print(mid_path, t)
-                        t = torch.tensor([int(t)] * batch_size, device=device)
-                        x_t = normalize(Image.open(mid_path).convert("RGB")).to(device).repeat(batch_size, 1, 1, 1)
-                        # print(x_t.shape)
-                        if t[0].item() > 150:
-                            mid_datas.append((x_t, t))
-                for mid_data in tqdm(mid_datas):
-                    x_t, t = mid_data
-                    skip_x0 = sampler.multi_step_pred_x0(
-                        model_fn,
-                        x=x_t,
-                        t=t,
-                        model_kwargs=model_kwargs,
-                        cond_fn=cond_fn,
-                    )
-                    save_grid(
-                        normalize_image(skip_x0),
-                        os.path.join(mid_dir, f"{t[0].item()}-skip_x0.png"),
-                    )
-
             # save images
             # save gt images
             mask_merged = masks.prod(dim=1, keepdim=True).clamp(0.0, 1.0)
@@ -541,9 +514,6 @@ def main():
         f"Samples are ready and waiting for you here: \n{outdir} \n"
     )
     recorder_stage1.end_recording()
-
-
-
 
 if __name__ == "__main__":
     main()

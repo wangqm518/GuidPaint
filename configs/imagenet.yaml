@@ -21,6 +21,7 @@ debug: false
 
 use_guidance: false
 use_local_guid: false
+use_skip_x0: true
 
 ########################################################################
 ## algorithm specific configs
@@ -101,7 +102,7 @@ classifier_attention_resolutions: 32,16,8
 classifier_use_scale_shift_norm: true
 classifier_resblock_updown: true
 classifier_pool: attention
-classifier_scale: 1.0 # 分类器引导强度
+classifier_scale: 1.0
 
 num_heads_upsample: -1
 channel_mult: ''

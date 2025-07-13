@@ -17,6 +17,7 @@ mode: inpaint # super_resolution, inpaint
 seed: 42
 n_samples: 1
 use_local_guid: false
+use_skip_x0: true # 用于获得100-249时间步上的xt多步跳采样后的x0 （一步预测的x0在100-249上 弱边缘结构不清晰）
 
 ddim:
   ddim_sigma: 0.0
@@ -53,7 +54,7 @@ stage1: # stochastic
   use_timetravel: false
   use_guidance: false
 
-use_skip_x0: true # 用于获得150-249时间步上xt跳采样后的x0
+
 
 
 

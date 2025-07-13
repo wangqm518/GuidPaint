@@ -17,6 +17,7 @@ def stage_config_updated_params():
         "seed": 42,
         "n_samples": 1,
         "use_local_guid": False,
+        "use_skip_x0": False,
         "optimize_xt.optimize_xt": True,
         "optimize_xt.num_iteration_inp": 2,
         "optimize_xt.num_iteration_guid": 2,
@@ -195,12 +196,6 @@ class Config(NestedDict):
                         # default=value_param
                     )
             args = parser.parse_args() # 通过命令行参数解析器对象解析命令行，返回 argparse.Namespace 对象，可以使用 .参数名 的方式访问参数值
-
-            # if args.config_file is not None:
-            #     self.update(smart_load(args.config_file))
-            # if args.gpu is not None: # 更新参数字典中gpu的值
-            #     # os.environ["CUDA_VISIBLE_DEVICES"] = str(args.gpu)
-            #     self.update({"gpu": args.gpu})
 
             updated_parameters = dict()#创建了一个空字典来存储更新后的参数
             self.subconfig_updated_params = dict()

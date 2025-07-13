@@ -263,7 +263,7 @@ class O_DDIMSampler(DDIMSampler):
         self.mode = conf.get("mode", "inpaint")
         self.scale = conf.get("scale", 0)
         self.optimize_xt = conf.get("optimize_xt.optimize_xt", True)
-        self.use_skip_x0 = conf.get("use_skip_x0", False)
+
 
     def p_sample(
         self,
@@ -664,7 +664,7 @@ class G_DDIMSampler(O_DDIMSampler):
         self.comb_start_step = conf.get("optimize_xt.comb_start_step", 249)
         self.comb_stop_step = conf.get("optimize_xt.comb_stop_step", 100)
         self.inp_start_step = conf.get("optimize_xt.inp_start_step", 180)
-
+        self.use_skip_x0 = conf.get("use_skip_x0", False)
 
     def p_sample(
             self,

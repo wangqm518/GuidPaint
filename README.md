@@ -70,7 +70,8 @@ python guidpaint.py
 Predefined mask types:
     expand, half, square, line, sr2, random, text, text_cat, full
 Mask missing area ratio: 
-    full: 100%(No inpainting constraints, only used for detecting the generation of the diffusion model), expand: 75%, half: 50%, square: 25%;
+    full: 100%(No inpainting constraints, only used for detecting the generation of the diffusion model);
+    expand: 75%, half: 50%, square: 25%;
 Guidance scale range:
     DDPM 250 steps(256*256): classifier guidance scale [0.5, 1.0, 1.5], best 1.0;
     DDIM  25 steps(256*256): classifier guidance scale [0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5], best 2.5;

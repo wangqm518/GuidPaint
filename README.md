@@ -8,6 +8,8 @@
 In recent years, diffusion models have been widely adopted for image inpainting tasks due to their powerful generative capabilities, achieving impressive results. Existing multimodal inpainting methods based on diffusion models often require architectural modifications and retraining, resulting in high computational cost. In contrast, context-aware diffusion inpainting methods leverage the model's inherent priors to adjust intermediate denoising steps, enabling high-quality inpainting without additional training and significantly reducing computation. However, these methods lack fine-grained control over the masked regions, often leading to semantically inconsistent or visually implausible content.
 To address this issue, we propose GuidPaint, a training-free, class-guided image inpainting framework. By incorporating classifier guidance into the denoising process, GuidPaint enables precise control over intermediate generations within the masked areas, ensuring both semantic consistency and visual realism. Furthermore, it integrates stochastic and deterministic sampling, allowing users to select preferred intermediate results and deterministically refine them. Experimental results demonstrate that GuidPaint achieves clear improvements over existing context-aware inpainting methods in both qualitative and quantitative evaluations.
 
+[paper](https://arxiv.org/pdf/2507.21627)
+
 ## Requirements
 ### Environment
 The code requires `python>=3.8`, as well as `pytorch>=1.7` and `torchvision>=0.8`.
@@ -89,7 +91,15 @@ bash scripts/guidpaint.sh
 ```
 ## Reference
 For more details, please refer to our paper. If you find our work useful, we would appreciate your citation.
-
+@misc{wang2025guidpaintclassguidedimageinpainting,
+      title={GuidPaint: Class-Guided Image Inpainting with Diffusion Models}, 
+      author={Qimin Wang and Xinda Liu and Guohua Geng},
+      year={2025},
+      eprint={2507.21627},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.21627}, 
+}
 
 Our implementation is based on following repos:
 * https://github.com/andreas128/RePaint

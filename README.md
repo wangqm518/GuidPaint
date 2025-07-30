@@ -1,6 +1,6 @@
 # GuidPaint: Class-Guided Image Inpainting with Diffusion Models
 
-[GuidPaint](https://arxiv.org/pdf/2507.21627)
+[`[Paper]`](https://arxiv.org/pdf/2507.21627)
 
 <img src="assets/bird-half.jpg" width=512><img src="assets/bird-half-all.gif" width=256px>
 

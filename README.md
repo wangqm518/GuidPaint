@@ -1,5 +1,7 @@
 # GuidPaint: Class-Guided Image Inpainting with Diffusion Models
 
+[GuidPaint](https://arxiv.org/pdf/2507.21627)
+
 <img src="assets/bird-half.jpg" width=512><img src="assets/bird-half-all.gif" width=256px>
 
 <img src="assets/results.jpg" width=768px>
@@ -8,7 +10,6 @@
 In recent years, diffusion models have been widely adopted for image inpainting tasks due to their powerful generative capabilities, achieving impressive results. Existing multimodal inpainting methods based on diffusion models often require architectural modifications and retraining, resulting in high computational cost. In contrast, context-aware diffusion inpainting methods leverage the model's inherent priors to adjust intermediate denoising steps, enabling high-quality inpainting without additional training and significantly reducing computation. However, these methods lack fine-grained control over the masked regions, often leading to semantically inconsistent or visually implausible content.
 To address this issue, we propose GuidPaint, a training-free, class-guided image inpainting framework. By incorporating classifier guidance into the denoising process, GuidPaint enables precise control over intermediate generations within the masked areas, ensuring both semantic consistency and visual realism. Furthermore, it integrates stochastic and deterministic sampling, allowing users to select preferred intermediate results and deterministically refine them. Experimental results demonstrate that GuidPaint achieves clear improvements over existing context-aware inpainting methods in both qualitative and quantitative evaluations.
 
-[paper](https://arxiv.org/pdf/2507.21627)
 
 ## Requirements
 ### Environment

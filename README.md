@@ -91,6 +91,7 @@ bash scripts/guidpaint.sh
 ```
 ## Reference
 For more details, please refer to our paper. If you find our work useful, we would appreciate your citation.
+
 @misc{wang2025guidpaintclassguidedimageinpainting,
       title={GuidPaint: Class-Guided Image Inpainting with Diffusion Models}, 
       author={Qimin Wang and Xinda Liu and Guohua Geng},

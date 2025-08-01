@@ -91,7 +91,7 @@ bash scripts/guidpaint.sh
 ```
 ## Reference
 For more details, please refer to our paper. If you find our work useful, we would appreciate your citation.
-
+```bibtex
 @misc{wang2025guidpaintclassguidedimageinpainting,
       title={GuidPaint: Class-Guided Image Inpainting with Diffusion Models}, 
       author={Qimin Wang and Xinda Liu and Guohua Geng},
@@ -101,7 +101,7 @@ For more details, please refer to our paper. If you find our work useful, we wou
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2507.21627}, 
 }
-
+```
 Our implementation is based on following repos:
 * https://github.com/andreas128/RePaint
 * https://github.com/openai/guided-diffusion

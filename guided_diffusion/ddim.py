@@ -665,6 +665,7 @@ class G_DDIMSampler(O_DDIMSampler):
         self.comb_stop_step = conf.get("optimize_xt.comb_stop_step", 100)
         self.inp_start_step = conf.get("optimize_xt.inp_start_step", 180)
         self.use_skip_x0 = conf.get("use_skip_x0", False)
+        self.skip_stop_step = conf.get("skip_stop_step", 100)
 
     def p_sample(
             self,
@@ -961,7 +962,7 @@ class G_DDIMSampler(O_DDIMSampler):
             # lr_xt *= self.alphas_cumprod[t[0].item()]
             # lr_xt /= get_smart_lr_decay_rate(t, self.mid_interval_num) # 计算太麻烦，效率低
 
-        """class guid"""
+        """class condition guid"""
         if self.use_guidance and t[0].item() >= self.guid_stop_step:
             assert cond_fn is not None, f"cond_fn is None"
             model_fn = self._wrap_model(model_fn)
@@ -1001,6 +1002,7 @@ class G_DDIMSampler(O_DDIMSampler):
             e_t = get_et(x, _t=t).detach()
             pred_x0 = get_predx0(x, _t=t, _et=e_t, interval_num=self.mid_interval_num).detach()
 
+        """Composition of known regions from GT and unknown regions from pred_x0"""
         if self.use_comb and self.comb_start_step >= t[0].item() >= self.comb_stop_step:
         # if t in [225, 200, 175, 150, 125, 100] and self.use_comb:
             comb_x0 = x0 * mask_merged + pred_x0 * (1.0 - mask_merged)  # combine masked x0 with optimized pred_x0
@@ -1083,7 +1085,6 @@ class G_DDIMSampler(O_DDIMSampler):
         logging_info(f"time_steps: {self.steps}")
         time_pairs = list(zip(self.steps[:-1], self.steps[1:]))
 
-
         # set up hyper paramer for this run
         x_t = img
         loss = None
@@ -1116,7 +1117,7 @@ class G_DDIMSampler(O_DDIMSampler):
                 x_t = output["x_prev"]
                 loss = output["loss"]
 
-                if cur_t[0].item() >= 120 and self.use_skip_x0:
+                if cur_t[0].item() >= self.skip_stop_step and self.use_skip_x0:
                     skip_x0 = self.multi_step_skip_x0(
                         model_fn,
                         x=output["x"],

@@ -18,9 +18,11 @@ resume: false # will load previous results if there are some
 mode: inpaint
 scale: 0
 debug: false
+
 use_guidance: false
-#use_one_step_noise: false
 use_local_guid: false
+use_skip_x0: true
+skip_stop_step: 120
 
 ########################################################################
 ## algorithm specific configs

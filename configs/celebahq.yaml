@@ -18,9 +18,11 @@ resume: false # will load previous results if there are some
 mode: inpaint # super_resolution, inpaint
 scale: 0 # used for SR
 debug: false
+
 use_guidance: false
-#use_one_step_noise: false
 use_local_guid: false
+use_skip_x0: true
+skip_stop_step: 120
 
 ########################################################################
 ## algorithm specific configs

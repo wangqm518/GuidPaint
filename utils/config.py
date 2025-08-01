@@ -18,6 +18,7 @@ def stage_config_updated_params():
         "n_samples": 1,
         "use_local_guid": False,
         "use_skip_x0": False,
+        "skip_stop_step": 100,
         "optimize_xt.optimize_xt": True,
         "optimize_xt.num_iteration_inp": 2,
         "optimize_xt.num_iteration_guid": 2,
